@@ -1,0 +1,47 @@
+---
+title: "Economic Evaluation of RAG Models in Regulatory Compliance: Integrating AI Economics"
+author: "PhD Student"
+format: html
+embed-resources: true
+bibliography: references.bib
+---
+
+## Introduction
+
+Retrieval Augmented Generation (RAG) models are emerging as powerful tools in regulatory compliance for financial services. This theoretical framework aims to establish the economic foundations for evaluating RAG models in this context, integrating established economic principles with contemporary research on the economics of artificial intelligence (AI). As financial institutions increasingly adopt AI technologies, understanding their economic implications becomes crucial for both practitioners and regulators.
+
+## Theoretical Framework
+
+### Efficiency and Cost-Effectiveness
+
+RAG models have the potential to significantly enhance efficiency in regulatory compliance processes. Agrawal et al. (2019) frame AI as a prediction technology, reducing the cost of prediction tasks. In the context of regulatory compliance, RAG models can be viewed as reducing the costs associated with predicting regulatory relevance and application. By leveraging advanced information retrieval and generation capabilities, these models can reduce the time and resources required for compliance tasks, aligning with the economic principle of efficiency [@agrawal2019economics].
+
+### Risk Mitigation and Value Creation
+
+From an economic perspective, implementing RAG models for regulatory compliance can be viewed as an investment in risk mitigation. Benaroch and Kauffman's (1999) application of real options theory to IT investments provides a useful framework for understanding this. RAG models create option value by allowing financial institutions to more flexibly respond to regulatory changes and potential compliance issues. This risk reduction translates to value creation for the institution, aligning with the economic concept of utility maximisation [@benaroch1999case].
+
+### Information Asymmetry Reduction
+
+RAG models can help reduce information asymmetry in regulatory compliance. Goldfarb and Tucker (2019) discuss how AI technologies can reduce information frictions in various economic contexts. In regulatory compliance, RAG models provide quick access to up-to-date regulatory information and contextual data, bridging knowledge gaps between compliance officers and the ever-changing regulatory landscape. This reduction in information asymmetry can lead to more informed decision-making, a key aspect of efficient markets in economic theory [@goldfarb2019digital].
+
+### Scalability and Economies of Scale
+
+The economic principle of economies of scale can be applied to evaluate RAG models in regulatory compliance. Brynjolfsson et al. (2017) discuss the economics of data and complementarities in AI systems, which are particularly relevant to RAG models. As these models process more data and handle a wider range of compliance tasks, their efficiency and effectiveness typically improve due to the complementarities between data, prediction accuracy, and decision quality. This scalability can lead to decreasing marginal costs for compliance activities as the volume of work increases [@brynjolfsson2017artificial].
+
+### Adaptability and Dynamic Efficiency
+
+The financial regulatory environment is constantly evolving. RAG models that demonstrate adaptability to new regulations and changing compliance requirements exhibit dynamic efficiency. Raisch and Krakowski (2021) explore how AI contributes to organisational learning and dynamic capabilities. In the context of regulatory compliance, RAG models that can quickly incorporate new regulatory information and adapt their outputs accordingly contribute to an organisation's dynamic capabilities, ensuring sustained economic benefits even as the regulatory landscape shifts [@raisch2021artificial].
+
+## Empirical Considerations
+
+While this framework provides a theoretical foundation, empirical validation is crucial. Recent studies on AI adoption in finance, such as Ke et al. (2019), provide methodologies that could be adapted to measure the economic impact of RAG models in regulatory compliance. However, challenges remain in isolating the specific effects of RAG models from other technological and organisational factors influencing compliance efficiency [@ke2019predicting].
+
+## Regulatory Perspective
+
+The economic implications of RAG models extend beyond financial institutions to regulatory bodies themselves. Gans et al. (2018) discuss how AI technologies can influence regulatory dynamics. For regulators, the widespread adoption of RAG models could lead to more standardised compliance practices, potentially reducing monitoring costs. However, it also raises concerns about regulatory arbitrage, where institutions might exploit the limitations of AI systems to circumvent regulations. The economic consequences of such dynamics warrant further investigation [@gans2018exit].
+
+## Conclusion
+
+This enhanced theoretical framework provides a foundation for evaluating the economic impact of RAG models in regulatory compliance for financial services. By integrating recent literature on AI economics with established economic principles, it offers a more comprehensive approach to understanding the efficiency gains, risk mitigation benefits, information asymmetry reduction, scalability advantages, and adaptive capabilities of RAG models in the regulatory compliance context.
+
+Future research should focus on empirical validation of this framework, potentially through case studies or large-scale analyses of financial institutions adopting RAG models for compliance. Additionally, further exploration of the regulatory implications and potential economic externalities of widespread RAG model adoption in the financial sector would contribute valuable insights to both practice and policy.
