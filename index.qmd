@@ -5,6 +5,17 @@ author:
     - Jesus Rincon del Martinez
     - Abhishek Pramanick
     - Barry Quinn
+format: pdf
+bibliography: references.bib
+---
+
+<!-- ---
+title: "Bridging AI and Economics"
+subtitle: "Evaluating the Feasibility of RAG Models for Regulatory Compliance"
+author: 
+    - Jesus Rincon del Martinez
+    - Abhishek Pramanick
+    - Barry Quinn
 embed-resources: true
 theme: spacelab
 format: 
@@ -19,7 +30,7 @@ format:
           - margin=1in
         toc: true
 bibliography: references.bib
----
+--- -->
 
 # Project Summary
 
