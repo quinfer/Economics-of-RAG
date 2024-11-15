@@ -11,511 +11,391 @@ format: html
 bibliography: references.bib
 ---
 
-
 # Project Summary
 
-This project, led by Dr Barry Quinn and Dr Jesus Martinez Del Rincon from Queen’s University Belfast, aims to develop and assess an AI-based framework that enhances regulatory compliance within the global investment management sector. Specifically, it investigates the feasibility and economic viability of Retrieval-Augmented Generation (RAG) models in automating and improving compliance tasks for smaller financial firms.
-
-The project focuses on addressing common challenges in regulatory reporting, risk assessments, and compliance monitoring by using RAG models and ontology-based rule extraction. By translating complex regulatory texts into structured, actionable rules aligned with international standards, this framework aims to streamline compliance processes, reduce error rates, and ensure adherence to evolving regulations.
+This project, led by Dr Barry Quinn and Dr Jesus Martinez Del Rincon from Queen’s University Belfast, aims to evaluate the potential of AI in enhancing regulatory compliance within the investment management sector. Partnering with Funds Axis Ltd., this feasibility study will examine the use of Retrieval-Augmented Generation (RAG) models to support efficient, accurate interpretation and implementation of complex regulatory requirements.
 
 ## Key Objectives
 
-	1.	Evaluate the Economic and Operational Feasibility of RAG Models: Assess if RAG-based solutions can reduce compliance costs and improve efficiency within the constraints of a small FinTech firm.
-	2.	Improve Compliance Accuracy and Consistency: Measure RAG’s impact on the precision and timeliness of compliance responses, particularly in tasks requiring rapid interpretation and rule application.
-	3.	Address Challenges Specific to Small Firms: Identify practical and operational challenges faced by small firms in adopting AI-driven compliance tools, including resource constraints, adaptability, and model reliability.
+1.  Exploring AI Applications in Compliance: Assessing RAG models’ capacity to support compliance processes through improved information retrieval, accuracy, and interpretability.
+2.  Economic and Operational Evaluation: Using a structured economic analysis to understand potential cost efficiencies, process enhancements, and operational feasibility for a FinTech firm.
+3.  Focusing on Key Compliance Areas: Emphasising regulatory reporting, risk assessments, and compliance monitoring as areas where AI tools may add value.
+4.  Addressing Core AI and Compliance Challenges: Identifying any key limitations, such as adaptability to changing regulations, interpretability, and operational integration, with a view to developing solutions where possible.
 
-## Hybrid Economic Analysis Approach
+## Analysis Approach
 
-A hybrid economic analysis approach underpins this feasibility study, combining quantitative and qualitative methods tailored for smaller organisations with limited compliance resources. This approach includes:
-	•	Cost-Benefit Analysis to quantify potential reductions in compliance costs,
-	•	Process Mapping and Time-Motion Analysis to measure time saved and process efficiency,
-	•	Simulation-Based Modelling to project the RAG model’s scalability and adaptability,
-	•	Qualitative Interviews with compliance staff to gather insights on usability, perceived value, and practical challenges.
+To assess the viability and potential benefits of RAG models, a hybrid economic analysis approach will be applied, combining:
 
-This combination of methods will produce a robust, multi-faceted assessment of RAG’s feasibility, balancing theoretical economic principles with real-world constraints faced by smaller financial institutions.
+• Cost-Benefit Analysis for a structured evaluation of cost impacts.
+• Process Mapping and Time-Motion Analysis to capture time efficiencies and workflow improvements.
+- Simulation Modelling to test model adaptability to evolving regulatory needs.
+• Qualitative Insights from key stakeholders to explore usability and functionality within compliance roles.
+
+This analysis will aim to provide an evidence-based evaluation of the model’s feasibility for Funds Axis Ltd., focusing on practical applications and potential efficiencies within the existing compliance framework.
 
 ## Funding and Duration
 
-This project is funded by UK Research and Innovation (UKRI) through the UKFin+ programme, with a grant of £77,694 awarded for a 12-month period from 1 November 2024 to 31 October 2025. Funds Axis Ltd, a FinTech firm with a small team specialising in regulatory compliance, will serve as the industrial partner, contributing expertise, data, and practical insights.
+Supported by UK Research and Innovation (UKRI) through the UKFin+ programme, this 12-month project is set to run from 1 November 2024 to 31 October 2025. Through this study, the project team will generate insights that contribute to both practical implementation options and an understanding of the broader potential of RAG models in regulatory compliance.
 
-## Expected Outcomes
+## Anticipated Outcomes
 
-The study aims to produce an AI-powered compliance framework that is both operationally effective and economically viable for small financial firms. Findings from this research will be widely disseminated, targeting top journals to contribute new insights into the application of RAG models in regulatory compliance. If successful, this framework will offer a scalable compliance solution that addresses accuracy, cost-efficiency, and adaptability to regulatory changes, making it particularly valuable to smaller financial institutions seeking to streamline compliance efforts.
-
+The expected outcomes include a clearer understanding of how RAG models might improve efficiency and support compliance goals within a FinTech setting. Findings from this study will aim to offer actionable insights into RAG’s practical, economic, and operational impact, providing a foundation for future AI integration within Funds Axis Ltd.
 
 # Hybrid Economic Analysis Approach
 
-Given the limited resources and small compliance team at Funds Axis Ltd., a hybrid economic analysis approach will provide a nuanced assessment of the RAG model’s feasibility. This approach combines quantitative cost-benefit measures with qualitative insights to deliver a comprehensive evaluation that aligns with the unique constraints and needs of smaller financial firms.
+To assess the feasibility and potential benefits of RAG models within a FinTech setting, this project employs a hybrid economic analysis approach. This approach combines quantitative and qualitative methods to provide a balanced view of the operational and economic impacts of AI-driven compliance support. The key components include:
 
-This section outlines each economic analysis method used in the study, detailing its purpose, expected outcomes, and relevance to assessing the feasibility of RAG models in regulatory compliance.
+1.  Cost-Benefit Analysis (CBA) • Purpose: To estimate cost savings and efficiency gains associated with the RAG model. • Method: The CBA will examine both direct and indirect compliance costs, assessing time and resource expenditure in current processes compared with those supported by AI. • Anticipated Insights: Expected findings include projected cost reductions and resource efficiencies, which will help quantify RAG’s economic viability.
+2.  Process Mapping and Time-Motion Analysis • Purpose: To identify workflow efficiencies and areas where RAG could improve task completion times. • Method: Documenting existing compliance workflows will help establish a baseline of time and resource requirements, enabling direct comparisons once RAG support is applied. • Anticipated Insights: This analysis will offer detailed insights into specific compliance tasks that may benefit most from AI support, helping to prioritise areas for implementation.
+3.  Simulation Modelling • Purpose: To assess how well RAG models might adapt to changing regulatory requirements and differing compliance scenarios. • Method: Simulations based on typical compliance scenarios will allow exploration of how the RAG model performs under various conditions, including regulatory updates. • Anticipated Insights: By testing the model’s adaptability, this component will help determine whether RAG offers scalability potential in a broader compliance context.
+4.  Qualitative Interviews • Purpose: To gain insight into RAG’s usability and value from a user perspective, gathering practical feedback from compliance professionals. • Method: Interviews with key compliance staff will capture experiences with the RAG model, focusing on ease of use, perceived efficiency, and operational impact. • Anticipated Insights: Qualitative feedback will add context to quantitative findings, highlighting any practical considerations, challenges, or adjustments needed to support effective use.
 
-1. Cost-Benefit Analysis (CBA)
+## Summary of Approach
 
-	•	Purpose: To quantify potential economic benefits of the RAG model by comparing compliance costs with and without AI-driven assistance.
-	•	Method: The analysis will focus on identifying both direct and indirect costs associated with regulatory compliance, including staff time, error correction, and overhead expenses. Cost reductions will be estimated based on efficiency improvements observed in RAG-supported compliance tasks.
-	•	Expected Outcomes:
-	•	Projected return on investment (ROI) in RAG implementation.
-	•	Estimated long-term savings based on increased task efficiency and reduced error rates.
-	•	Relevance: CBA provides a clear, quantifiable measure of the RAG model’s potential to reduce costs and improve economic viability for smaller firms, where resource efficiency is paramount.
+This hybrid analysis framework is designed to provide a comprehensive view of the RAG model’s practical and economic feasibility within compliance processes. By combining these methods, the study aims to provide Funds Axis Ltd. with actionable insights that reflect both cost and operational impacts, supporting evidence-based decision-making around AI adoption.
 
-2. Process Mapping and Time-Motion Analysis
+# Work Packages
 
-	•	Purpose: To create a detailed picture of current compliance processes, highlighting areas where RAG models could streamline workflows.
-	•	Method: Process mapping will document each compliance task’s steps, while time-motion analysis will measure the time and resources currently required to complete these tasks.
-	•	Expected Outcomes:
-	•	Identification of bottlenecks or inefficiencies in current processes.
-	•	Baseline data for measuring time reductions when RAG models are applied.
-	•	Relevance: This analysis will help to quantify specific time and cost savings that RAG models can achieve, providing an empirical foundation for later economic evaluations.
+The project is divided into five work packages (WPs), each designed to address specific aspects of implementing and evaluating a RAG model in regulatory compliance. Each WP includes an economic analysis component to provide insights into the model’s impact on compliance costs and operational efficiency.
 
-3. Simulation-Based Modelling
+## WP1: Definition of Use Cases, Data Collection, and Process Mapping
 
-	•	Purpose: To assess the scalability and adaptability of RAG models across different regulatory compliance scenarios, projecting their impact under various conditions.
-	•	Method: A simulation model will be developed using baseline data from Funds Axis Ltd. to explore how the RAG system might function in larger or more complex compliance environments. Key variables will include regulatory changes, task complexity, and compliance risk levels.
-	•	Expected Outcomes:
-	•	Insight into the potential scalability of the RAG model if adopted by larger organisations.
-	•	Estimates of adaptability costs when regulatory requirements evolve.
-	•	Relevance: Simulation modelling allows the project to explore scalability beyond the current scope, demonstrating how the RAG model could be deployed across firms of varying sizes and regulatory environments.
+**Timeline: Months 1–2**
 
-4. Qualitative Interviews
+::: {.callout-note appearance="minimal"}
+## Objectives
 
-	•	Purpose: To gather in-depth insights from compliance officers and relevant staff at Funds Axis Ltd. on the usability, perceived value, and practical challenges of the RAG model.
-	•	Method: Semi-structured interviews will be conducted, focusing on user experience, perceived economic benefits, and potential challenges in adopting RAG-based tools.
-	•	Expected Outcomes:
-	•	Detailed feedback on the RAG model’s usability, accessibility, and operational benefits.
-	•	Identification of barriers to adoption, such as required training or technical adjustments.
-	•	Relevance: Qualitative interviews will provide a rich context for interpreting quantitative findings, helping to clarify the practical challenges and perceived economic value of RAG models from an end-user perspective.
+• Define regulatory use cases relevant to Funds Axis Ltd. based on priority compliance needs.
+• Document current compliance processes to establish baseline performance metrics.
+• Collect a dataset from regulatory texts to support model training and testing.
+:::
 
-## Summary of the Hybrid Approach
+::: {.callout-important appearance="minimal"}
+## Approach
 
-By combining these four methods, this hybrid economic analysis approach will capture a multi-dimensional view of the RAG model’s feasibility. Cost-Benefit Analysis will quantify the economic potential, while Process Mapping and Time-Motion Analysis will provide granular insights into task efficiency. Simulation-Based Modelling will project the model’s adaptability across different regulatory scenarios, and Qualitative Interviews will reveal practical, user-focused insights.
+1.  Identify high-priority compliance tasks through collaboration with Funds Axis Ltd., focusing on areas where AI might offer efficiency gains.
+2.  Develop detailed process maps to record each task’s resource and time requirements.
+3.  Compile a dataset of relevant regulatory texts, creating a foundation for RAG model testing.
+:::
 
-This multi-faceted approach is particularly suited to the needs of a small FinTech firm and provides a strong foundation for actionable recommendations that could benefit similarly sized organisations seeking cost-effective compliance solutions.
+::: {.callout-tip appearance="minimal"}
+## Economic Analysis
 
+• Process Mapping and Time-Motion Analysis: This WP will establish baseline metrics, enabling later comparison of time and resource expenditures with and without RAG model support. Initial findings from this analysis will inform the overall cost-benefit evaluation.
+:::
 
-# Work Package Analysis
+## WP2: Question/Answer Extraction of Unstructured Regulatory Text
 
-The project is divided into five primary work packages (WPs), each designed to address distinct aspects of RAG model implementation in regulatory compliance. Each WP incorporates specific components of the hybrid economic analysis approach to evaluate the feasibility and economic impact of the RAG model within a small FinTech context.
+**Timeline: Months 2–3**
 
-## WP1 Definition of Use Cases, Data Collection, and Process Mapping
+::: {.callout-note appearance="minimal"}
+## Objectives
 
-Timeline: Months 1–2
+• Develop a question-answering (Q/A) model to assist with complex, unstructured regulatory text.
+• Adapt general-purpose AI models to handle compliance-specific queries effectively.
+• Test and evaluate model accuracy and response quality.
 
-Objectives
+:::
 
-	•	Define use cases and compliance scenarios relevant to Funds Axis Ltd.
-	•	Document current compliance processes, identifying workflow stages and specific regulatory tasks.
-	•	Compile a dataset from this baseline environment for model training and evaluation.
+::: {.callout-important appearance="minimal"}
+## Approach
 
-Technical Tasks
+1. Train and fine-tune Q/A models on the regulatory dataset collected in WP1.
+2. Implement rule-based Q/A processing tailored to high-priority compliance needs.
+3. Test model responses for accuracy, truthfulness, and relevance to compliance scenarios.
 
-	1.	Collaborate with Funds Axis Ltd. to identify critical compliance tasks and processes.
-	2.	Document each step in current compliance workflows, capturing resources, time allocations, and procedural steps.
-	3.	Collect relevant regulatory texts to simulate compliance scenarios, forming a comprehensive dataset for later model testing.
+:::
 
-Economic Analysis Method
+::: {.callout-tip appearance="minimal"}
+## Economic Analysis
 
-	•	Process Mapping and Time-Motion Analysis: This WP will apply process mapping to capture detailed workflow steps, followed by time-motion analysis to measure the time and resources dedicated to each compliance task.
-	•	Outcome: A baseline dataset to identify areas of inefficiency in current processes and measure potential time savings once RAG models are implemented.
-	•	Value: Establishes a foundational dataset and process map that will be instrumental in later Cost-Benefit Analysis.
+• Cost-Benefit Analysis (CBA): Using baseline data, the CBA will evaluate projected cost savings from AI-assisted Q/A tasks. This analysis will focus on assessing time efficiencies and potential reductions in error-related costs.
 
-## WP2: Question-Answer Extraction of Unstructured Regulatory Text Based on Predefined Rules
+:::
 
-Timeline: Months 2–3
-
-Objectives
-
-	•	Develop a question-answering (Q/A) system to handle complex, unstructured regulatory texts.
-	•	Fine-tune general-purpose models like T5 and FinBERT for compliance-specific queries.
-	•	Implement testing protocols to evaluate the accuracy and efficiency of responses.
-
-Technical Tasks
-
-	1.	Train Q/A models to interpret regulatory texts and respond accurately to compliance-related queries.
-	2.	Integrate rule-based Q/A systems within the regulatory context provided by Funds Axis Ltd.
-	3.	Develop testing metrics for accuracy, truthfulness, and response relevance.
-
-Economic Analysis Method
-
-	•	Cost-Benefit Analysis (CBA): Use baseline process data from WP1 to estimate potential cost savings and efficiency gains from the Q/A system’s introduction.
-	•	Outcome: A quantitative assessment of cost reductions in compliance time and error correction, providing a first measure of the RAG model’s financial impact.
-	•	Value: Generates an early economic evaluation of RAG’s potential to streamline compliance tasks and reduce costs in a small firm setting.
 
 ## WP3: Rule Extraction Using OWL Ontology and Knowledge Base Integration
 
-Timeline: Months 4–7
+**Timeline: Months 4–7**
 
-Objectives
+::: {.callout-note appearance="minimal"}
+## Objectives
 
-	•	Automate rule extraction from regulatory texts, structuring extracted information with OWL ontology.
-	•	Integrate extracted rules into a dynamic knowledge base for continuous use and adaptation.
-	•	Establish mechanisms for rapid updating in response to regulatory changes.
+• Automate rule extraction from regulatory texts using OWL-based ontology.
+• Integrate extracted rules into a knowledge base for ongoing compliance support.
+• Develop methods for the RAG model to adapt quickly to regulatory updates.
 
-Technical Tasks
+:::
 
-	1.	Develop OWL-based ontology to define regulatory entities, relationships, and hierarchies relevant to Funds Axis Ltd.
-	2.	Build a pipeline for automated rule extraction, transforming unstructured text into structured knowledge.
-	3.	Design a knowledge base (KB) with version control to support ongoing updates as regulations evolve.
+::: {.callout-important appearance="minimal"}
+## Approach
 
-Economic Analysis Method
+1. Design an ontology using OWL to represent regulatory relationships and hierarchies.
+2. Build an automated rule extraction pipeline that transforms text into structured knowledge.
+3. Establish a dynamic knowledge base that supports future updates in regulatory standards.
 
-	•	Simulation-Based Modelling: Using WP1 data, simulate the RAG model’s impact under various regulatory scenarios, exploring adaptability to changing regulations and its economic implications.
-	•	Outcome: Insights into the model’s scalability and adaptability, including projected cost savings and time efficiencies when the KB handles dynamic updates.
-	•	Value: Provides a forward-looking assessment of the RAG model’s economic benefits if adopted at larger scales or in multi-jurisdictional regulatory environments.
+:::
+
+::: {.callout-tip appearance="minimal"}
+## Economic Analysis
+
+• Simulation Modelling: Simulate various compliance scenarios to test the RAG model’s ability to adapt to new regulations. Insights from this model will help assess scalability and long-term adaptability, which are key factors for economic feasibility.
+
+:::
 
 ## WP4: Computational Approaches to Identifying and Quantifying Inconsistencies in Rule Sets
 
-Timeline: Months 8–10
+**Timeline: Months 8–10**
 
-Objectives
+::: {.callout-note appearance="minimal"}
+## Objectives
 
-	•	Detect inconsistencies and conflicts within the knowledge base and extracted rule sets.
-	•	Quantify inconsistencies and develop resolution strategies, prioritising rule adjustments by source and relevance.
-	•	Conduct cross-jurisdictional analysis where applicable to identify regulatory differences.
+• Identify and quantify inconsistencies within the knowledge base and extracted rules.
+• Perform cross-jurisdictional comparisons where applicable, addressing variations in regulatory requirements.
+• Prioritise rule adjustments based on recency, source, and relevance.
 
-Technical Tasks
+:::
 
-	1.	Use the MIMUS tool to identify inconsistencies within the knowledge base.
-	2.	Extract minimal unsatisfiable sets of clauses (MUSes) to assess conflicts in regulatory interpretation.
-	3.	Analyse rule overlaps or discrepancies across jurisdictions and resolve conflicts based on regulatory priority and recentness.
+::: {.callout-important appearance="minimal"}
+## Approach
 
-Economic Analysis Method
+1. Use the MIMUS tool to analyse knowledge base consistency and detect potential conflicts.
+2. Extract minimal unsatisfiable sets (MUSes) of clauses to resolve inconsistencies.
+3. Evaluate rule overlaps across jurisdictions, prioritising adjustments based on relevance to core compliance needs.
 
-	•	Simulation Modelling for Inconsistency Resolution: Model the economic impact of resolving inconsistencies, including reductions in non-compliance risk, error correction costs, and time savings.
-	•	Outcome: Projected cost benefits of automated inconsistency detection, focusing on minimising compliance risk and ensuring alignment with regulatory standards.
-	•	Value: Demonstrates RAG’s potential to manage complex compliance requirements while reducing manual intervention, enhancing the model’s economic appeal to smaller firms.
+:::
+
+::: {.callout-tip appearance="minimal"}
+## Economic Analysis
+
+• Simulation Modelling for Inconsistency Resolution: Model the impact of detecting and resolving inconsistencies on compliance reliability and cost-effectiveness. This phase will focus on measuring the economic value of automated consistency management in reducing compliance risks.
+
+:::
 
 ## WP5: Risk Assessment and Qualitative Insights from Compliance Officers
 
-Timeline: Months 11–12
+**Timeline: Months 11–12**
 
-Objectives
+::: {.callout-note appearance="minimal"}
+## Objectives
 
-	•	Develop a risk scoring system for compliance, incorporating regulatory and financial data to assess risk exposure.
-	•	Gather qualitative feedback from compliance officers at Funds Axis Ltd. to evaluate the RAG model’s usability, perceived value, and practical challenges.
-	•	Conduct a final synthesis of economic insights across all WPs to evaluate the RAG model’s overall feasibility.
+• Develop a risk scoring system to support compliance risk assessments.
+• Conduct qualitative interviews with compliance staff to gather feedback on the RAG model’s usability and perceived benefits.
+• Compile findings into a final report, synthesising technical and economic insights.
 
-Technical Tasks
+:::
 
-	1.	Design an AI-based compliance risk assessment tool that calculates a risk score based on compliance tasks, historical data, and regulatory alignment.
-	2.	Conduct qualitative interviews with key compliance staff to gather detailed feedback on the RAG model’s effectiveness and usability.
-	3.	Consolidate findings into a final report, integrating qualitative insights and quantitative analysis.
+::: {.callout-important appearance="minimal"}
+## Approach
 
-Economic Analysis Method
+1. Design an AI-based risk assessment tool, calculating risk scores based on compliance data.
+2. Conduct interviews with compliance staff to capture user feedback, focusing on usability, perceived efficiency, and areas for potential improvement.
+3. Consolidate findings into a comprehensive report on RAG model feasibility, supported by qualitative and quantitative data.
 
-	•	Qualitative Interviews and Final Cost-Benefit Analysis: Conduct semi-structured interviews to understand user perspectives on the RAG model’s economic value and practical use. Finalise the Cost-Benefit Analysis by integrating feedback on perceived efficiencies, usability, and economic benefits.
-	•	Outcome: Comprehensive understanding of the RAG model’s operational impact, challenges, and economic feasibility, directly from the end-user perspective.
-	•	Value: Provides contextual, user-driven insights that complement the quantitative findings, offering a complete picture of the RAG model’s applicability in a real-world setting.
+:::
 
-## Summary
+::: {.callout-tip appearance="minimal"}
+## Economic Analysis
 
-Each work package is designed to build on the insights gathered from earlier stages, creating a cumulative assessment of the RAG model’s technical feasibility and economic value. The integration of tailored economic analysis methods across WPs ensures that the project addresses both operational efficiency and practical usability, positioning it to provide actionable findings relevant to small financial firms.
+• Qualitative Feedback and Final Cost-Benefit Analysis: Gather end-user insights through interviews and complete a final CBA to summarise cost savings, usability, and economic impact. This final analysis will provide a holistic view of the RAG model’s effectiveness for Funds Axis Ltd.
 
+:::
+
+Each work package builds on the previous phase, creating a structured, cumulative assessment of the RAG model’s economic and operational viability. This approach provides Funds Axis Ltd. with practical insights into specific compliance improvements that may be achieved through AI support.
 
 # Theoretical Framework in Economics
 
-The feasibility study is grounded in a strong theoretical framework, incorporating economic principles to evaluate the potential value of RAG models in regulatory compliance. This framework supports a rigorous economic assessment of RAG model implementation, specifically within the context of a small financial firm with constrained compliance resources.
+This study uses a structured economic framework to evaluate the potential benefits and challenges of implementing RAG models in regulatory compliance. This framework is grounded in key economic principles relevant to the efficiency, scalability, and adaptability of AI solutions, especially within the resource-constrained setting of a small financial technology firm.
 
-This section summarises key economic principles, providing context for the hybrid economic analysis methods employed in the project.
+## Core Economic Principles
 
-## Efficiency and Cost-Effectiveness
+1. Efficiency and Cost-Effectiveness
+• Principle: Efficiency is central to evaluating the economic value of AI in compliance. The model’s ability to save time and reduce resource requirements directly impacts its cost-effectiveness.
+• Application: Cost-Benefit Analysis (CBA) and Process Mapping will quantify any potential savings from implementing the RAG model. This analysis will examine specific areas where time reductions or cost savings can be achieved.
+2. Risk Mitigation and Value Creation
+• Principle: AI-driven compliance models can serve as an investment in risk mitigation by reducing the likelihood of regulatory breaches and penalties.
+• Application: Simulation Modelling in WP3 will assess the RAG model’s adaptability to regulatory updates, offering insights into its capacity for risk reduction. These findings will provide a foundation for evaluating the model’s potential value in enhancing compliance reliability.
+3. Information Asymmetry Reduction
+• Principle: AI has the potential to reduce information asymmetry by improving access to regulatory information and providing timely, relevant guidance to compliance staff.
+• Application: Qualitative feedback from compliance staff in WP5 will provide insight into how the RAG model may improve decision-making by making complex regulatory information more accessible.
+4. Scalability and Economies of Scale
+• Principle: Economies of scale refer to the cost advantages that AI models can realise as they process larger volumes of data or tasks, potentially reducing marginal costs over time.
+• Application: WP3’s Simulation Modelling will test the model’s scalability, evaluating its performance across varied compliance tasks. Insights from this model will help determine whether economies of scale can be achieved within the specific context of Funds Axis Ltd.
+5. Adaptability and Dynamic Efficiency
+• Principle: Adaptability is critical in regulatory compliance, where evolving standards require systems to be flexible and responsive.
+• Application: The study will assess the RAG model’s adaptability to regulatory changes through WP3, examining the economic implications of maintaining a system that can adapt to new or updated regulations.
 
-RAG models have the potential to reduce compliance costs by automating complex regulatory tasks and enhancing process efficiency. From an economic perspective, efficiency gains are central to assessing the value of AI-driven tools in compliance. By minimising time and resource expenditure, RAG models align with cost-effectiveness principles critical for smaller firms seeking to optimise resource use.
-	•	Economic Relevance: In this study, Cost-Benefit Analysis (CBA) and Process Mapping will evaluate time and cost savings directly attributed to RAG model implementation.
-	•	Supporting Literature: Agrawal et al. (2019) describe AI as a tool for reducing prediction costs, which is applicable here as RAG models reduce costs associated with interpreting regulatory requirements.
+## Summary of Theoretical Framework
 
-## Risk Mitigation and Value Creation
-
-Implementing RAG models can be seen as an investment in risk mitigation. By automating regulatory interpretation, RAG models may reduce human error, thereby lowering the risk of non-compliance and potential regulatory penalties. This aligns with real options theory, which values flexibility in adapting to regulatory changes.
-	•	Economic Relevance: Simulation Modelling will be used to assess RAG’s capacity to adapt to regulatory updates and mitigate non-compliance risks.
-	•	Supporting Literature: Benaroch and Kauffman (1999) applied real options theory to IT investments, illustrating how flexible tools like RAG models create option value in regulatory environments by reducing uncertainty.
-
-## Information Asymmetry Reduction
-
-RAG models can help reduce information asymmetry by making complex regulatory information accessible to compliance officers and reducing the knowledge gap between regulatory bodies and compliance staff. Improved information flow and quick access to regulatory updates enable informed decision-making, enhancing compliance accuracy.
-	•	Economic Relevance: Qualitative Interviews with compliance officers will explore the model’s role in bridging knowledge gaps and reducing information frictions, while CBA will estimate potential cost savings from reduced error rates.
-	•	Supporting Literature: Goldfarb and Tucker (2019) discuss how AI reduces information frictions, an important concept for regulatory compliance, where access to clear, actionable information is critical.
-
-## Scalability and Economies of Scale
-
-The principle of economies of scale is relevant when considering the RAG model’s adaptability to different scales of operation. As RAG systems handle larger regulatory workloads or adapt to more complex compliance tasks, they can potentially reduce marginal costs, making them more attractive for small firms with limited budgets.
-	•	Economic Relevance: Simulation Modelling will test scalability, projecting RAG’s performance in more complex regulatory contexts to determine whether economies of scale are achievable.
-	•	Supporting Literature: Brynjolfsson et al. (2017) emphasise AI’s role in achieving economies of scale, which may be realised through improved efficiency and accuracy in RAG-driven compliance.
-
-## Adaptability and Dynamic Efficiency
-
-In a regulatory landscape that is constantly evolving, RAG models that demonstrate dynamic efficiency — the ability to adapt to new regulations quickly — provide long-term economic benefits. Tools that can swiftly incorporate updates or respond to regulatory changes reduce compliance risk and ensure ongoing adherence.
-	•	Economic Relevance: The simulation of adaptability, particularly in WP3, will evaluate the economic implications of maintaining compliance across regulatory updates, focusing on the costs associated with system adaptation.
-	•	Supporting Literature: Raisch and Krakowski (2021) examine AI’s role in organisational learning and adaptability, which is critical for RAG models in fast-paced regulatory environments.
-
-## Summary
-
-This theoretical framework informs the hybrid economic analysis, allowing for a multi-dimensional approach that considers both quantitative and qualitative insights. Each economic principle — cost-effectiveness, risk mitigation, information symmetry, economies of scale, and adaptability — is aligned with a specific method, enhancing the rigour and relevance of the project’s findings. These concepts provide a solid foundation for evaluating the real-world applicability of RAG models in compliance and are particularly pertinent to smaller firms operating with limited compliance resources.
-
+The application of these economic principles will provide Funds Axis Ltd. with an evidence-based assessment of the RAG model’s feasibility, balancing cost-efficiency with practical considerations of adaptability and risk mitigation. This framework is intended to offer a well-rounded perspective, supporting informed decisions on the potential role of AI in enhancing compliance capabilities.
 
 # Project Timeline and Gantt Chart
 
-To visually outline the project’s workflow, deliverables, and relationships between work packages, a comprehensive Gantt chart is presented below (Figure 1). This chart illustrates each work package’s sequence and duration, with key milestones aligned to both technical and economic analysis outputs.
+To provide an overview of the project’s workflow, deliverables, and timeline, the following Gantt chart (Figure 1) illustrates the sequence and duration of each work package, alongside key economic analysis milestones. This layout ensures that all project phases are well-coordinated, supporting a comprehensive evaluation of the RAG model’s feasibility.
+
 
 ```{mermaid}
+
 %%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'arial', 'fontSize': '10px'}}}%%
 gantt
-    title Figure 1: Project Work Plan Gantt Chart
+    title Project Work Plan Gantt Chart
     dateFormat YYYY-MM-DD
     axisFormat %b '%y
     todayMarker off
     
     section Work Packages
     WP1 Use case definition, data collection and process mapping :2024-11-01, 2024-12-31
-    WP2-Q/A extraction of unstructured regulatory text :2024-12-01, 2025-01-31
-    WP3-Automated rule extraction based on OWL ontologies :2025-02-01, 2025-05-31
-    WP4-Computational approaches to finding and measuring rule set inconsistencies :2025-06-01, 2025-08-31
-    WP5-Risk assessment for regulatory compliance :2025-09-01, 2025-10-31
+    WP2 Q/A extraction of unstructured regulatory text :2024-12-01, 2025-01-31
+    WP3 Automated rule extraction based on OWL ontologies :2025-02-01, 2025-05-31
+    WP4 Computational approaches to finding and measuring rule set inconsistencies :2025-06-01, 2025-08-31
+    WP5 Risk assessment for regulatory compliance :2025-09-01, 2025-10-31
 
     section Economic Analysis Milestones
-    M1-Baseline Process Mapping & Initial CBA Report  :milestone, 2024-12-31, 1d
-    M2-Q/A CBA Assessment :milestone, 2025-01-31, 1d
-    M3-Simulation Model for Scalability :milestone, 2025-05-31, 1d
-    M4-Qualitative Interviews & Final CBA :milestone, 2025-10-31, 1d
+    M1 Baseline Process Mapping & Initial CBA Report :milestone, 2024-12-31, 1d
+    M2 Q/A CBA Assessment :milestone, 2025-01-31, 1d
+    M3 Simulation Model for Scalability :milestone, 2025-05-31, 1d
+    M4 Qualitative Interviews & Final CBA :milestone, 2025-10-31, 1d
 
     section Extended Timeline with Partner
-    Refinement & Integration Phase :a1,2025-11-01, 2026-08-27
+    Refinement & Integration Phase :2025-11-01, 2026-08-27
     Functioning AI-enhanced module :milestone, 2026-02-28, 1d
     Final AI-enhanced module :milestone, 2026-08-27, 1d
     User Testing & Trials :2026-03-01, 2026-06-30
     User Agreements :milestone, 2026-02-27, 1d
-    Trials Feedback report :milestone, 2026-06-27, 1d
+    Trials Feedback Report :milestone, 2026-06-27, 1d
 ```
 
 ## Key Aspects of the Project Timeline
 
-	1.	Integration of Economic Analysis Milestones:
-	•	M1 - Baseline Process Mapping & Initial CBA Report (WP1): An early milestone for assessing baseline compliance costs and time data, creating a foundational dataset for later CBA evaluations.
-	•	M2 - Q/A CBA Assessment (WP2): A milestone focused on evaluating cost-effectiveness in RAG-supported Q/A tasks, based on time saved and error reduction potential.
-	•	M3 - Simulation Model for Scalability (WP3): This milestone introduces a simulation model to test RAG’s scalability in more complex regulatory environments, assessing potential economies of scale and adaptability.
-	•	M4 - Qualitative Interviews & Final CBA (WP5): A synthesis milestone combining final CBA insights with qualitative interview data, providing a comprehensive view of RAG’s economic feasibility and user perceptions.
-	2.	Critical Path and Resource Allocation:
-	•	Each WP is structured to provide actionable insights for subsequent phases, with core deliverables feeding into both technical and economic assessments.
-	•	Economic analysis tasks are distributed across WPs, ensuring a balanced workload and enabling continuous validation of the RAG model’s economic impact.
-	3.	Extended Timeline for Partner Support:
-	•	Beyond the initial 12-month funded period, the project includes a refinement and integration phase led by Funds Axis Ltd. This phase will focus on user testing, real-world trials, and further integration into the firm’s HighWire software ecosystem.
-	•	The extended timeline incorporates user testing milestones to gather feedback and make final adjustments, ensuring that the RAG model achieves maximum usability and effectiveness for the firm.
+1.  Integrated Economic Analysis Milestones:
+•   M1 - Baseline Process Mapping & Initial CBA Report (WP1): Establishes baseline data for evaluating time and cost impacts.
+•   M2 - Q/A CBA Assessment (WP2): Evaluates initial economic impacts of AI-driven question-answering, focusing on time and cost savings.
+•   M3 - Simulation Model for Scalability (WP3): Tests model adaptability across different regulatory scenarios, providing insights into scalability potential.
+•   M4 - Qualitative Interviews & Final CBA (WP5): Concludes with a synthesis of cost-benefit and user feedback data, providing a comprehensive evaluation of the RAG model’s practical and economic feasibility.
+2.  Project Flow and Resource Allocation:
+•   Each WP builds on the outputs of preceding phases, creating a structured sequence for cumulative insights. Economic analysis tasks are aligned with technical deliverables to provide continuous validation of project goals.
+3.  Extended Timeline with Partner Support:
+•   Following the initial 12-month funded period, the project enters a refinement and integration phase, including user testing and trials with Funds Axis Ltd. This phase will ensure that the final AI-enhanced module meets practical requirements and is ready for real-world deployment.
 
-## Summary of Project Milestones
 
-This timeline and Gantt chart demonstrate the project’s structure, showing how economic analysis milestones are interwoven with technical WPs to provide a robust, phased evaluation of the RAG model. By strategically aligning economic assessments with each WP’s outputs, the project ensures that all stakeholders have a clear understanding of the RAG model’s progression, economic feasibility, and anticipated impacts on compliance efficiency.
-
-Here’s a draft for the Implementation Strategy section. This section outlines core strategic steps to ensure the integration of economic analysis, technical development, and stakeholder collaboration, tailored to the needs of a smaller firm.
+This timeline ensures that each work package and milestone aligns with the project’s objectives, facilitating a well-organised workflow that supports efficient project management. The Gantt chart provides a visual reference for all stakeholders, helping track progress and identify key points for review and adjustment.
 
 # Implementation Strategy
 
-The project’s implementation strategy emphasises a structured, interdisciplinary approach to integrate economic analysis within each technical work package. This strategy is designed to balance technical development with rigorous economic assessment, ensuring that the RAG model’s feasibility is evaluated in both operational and financial terms.
+The implementation strategy for this project focuses on a structured, phased approach to ensure that both technical and economic assessments of the RAG model are aligned with the needs and constraints of Funds Axis Ltd. This strategy prioritises a balanced evaluation of operational feasibility and economic impact, supporting data-driven insights for decision-making.
 
-1. Interdisciplinary Integration of Economic Analysis in Each Work Package
+1.  Embedding Economic Analysis Across Work Packages
 
-	•	Objective: Ensure that economic analysis is embedded within each WP, providing timely insights into the RAG model’s impact on compliance costs, efficiency, and risk reduction.
-	•	Approach: Assign a dedicated economist or data analyst to collaborate closely with computer scientists and project leads in each WP. Regular review meetings will be held to align technical progress with economic findings.
-	•	Expected Outcome: Continuous validation of the RAG model’s economic value, allowing adjustments to the technical approach based on early economic insights.
+• **Objective:** Integrate economic analysis within each WP to provide a comprehensive view of the RAG model’s potential impact on compliance costs, efficiency, and scalability. 
+• **Approach:** Each WP will include specific economic assessment tasks, ensuring that technical progress is evaluated alongside economic insights. Interdisciplinary meetings between economists and technical experts will support this alignment. 
+• **Outcome:** Continuous validation of the RAG model’s economic feasibility, providing early insights into both practical and cost-related impacts.
 
-2. Development of Metrics and Evaluation Criteria
+2.  Establishment of Clear Metrics and Evaluation Criteria
 
-	•	Objective: Establish clear, interdisciplinary metrics that bridge technical performance indicators (e.g., model accuracy, response time) with economic measures (e.g., cost savings, time efficiencies).
-	•	Approach: Define and standardise metrics for each WP, ensuring consistent data collection and measurement. Metrics will be tailored to assess efficiency, cost-effectiveness, adaptability, and user satisfaction, reflecting the hybrid economic analysis approach.
-	•	Expected Outcome: A robust dataset supporting CBA, Process Mapping, and Simulation Modelling, enabling clear comparisons between baseline compliance processes and RAG-enhanced processes.
+• **Objective:** Develop metrics that connect technical performance indicators (e.g., model accuracy, time savings) with economic measures (e.g., cost efficiencies, resource allocation). 
+• **Approach:** Standardised metrics will be created for each WP to allow consistent data collection. Metrics will focus on key factors such as time efficiency, accuracy, usability, and cost-effectiveness. 
+• **Outcome:** A structured data set to support CBA, Process Mapping, and Simulation Modelling, providing a clear comparison of current versus AI-supported processes.
 
-3. Parallel Economic Modelling and Data Collection
+3.  Phased Economic Modelling and Data Collection
 
-	•	Objective: Gather data to support cost-benefit and simulation-based analyses as technical development progresses.
-	•	Approach: Initiate CBA and Process Mapping in WP1, establishing a baseline for later comparison. Continue data collection and economic modelling across WPs, with specific focus on simulation and scalability in WP3 and final qualitative insights in WP5.
-	•	Expected Outcome: A phased economic analysis, enabling iterative evaluation and refinement of RAG’s economic impact as technical components are implemented.
+• **Objective:** Support phased economic analysis by gathering data continuously as technical development progresses. 
+• **Approach:** Initiate baseline CBA and Process Mapping in WP1, with ongoing data collection throughout each WP. Simulation Modelling will focus on adaptability and scalability, while final qualitative insights will be collected in WP5. 
+• **Outcome:** Incremental economic evaluation to support iterative refinement and provide a holistic view of RAG’s impact at each stage of the project.
 
-4. Stakeholder Collaboration and Knowledge Exchange
+4.  Stakeholder Collaboration and Regular Knowledge Exchange
 
-	•	Objective: Facilitate knowledge exchange between the project team and compliance staff at Funds Axis Ltd., ensuring practical, user-informed development of the RAG model.
-	•	Approach: Conduct regular knowledge-sharing sessions, including demonstrations, feedback loops, and collaborative discussions on model usability and impact.
-	•	Expected Outcome: Improved alignment between the RAG model’s design and the firm’s specific compliance needs, enhancing both economic value and user acceptance.
+• **Objective:** Ensure that Funds Axis Ltd. is actively engaged in the project, with opportunities for feedback and knowledge exchange throughout. 
+• **Approach:** Regular meetings will provide opportunities for Funds Axis Ltd. to give feedback on model usability, relevance, and alignment with current compliance needs. 
+• **Outcome:** Continuous alignment of project outputs with the firm’s operational requirements, supporting user-informed development.
 
-5. Economic Analysis-Focused User Testing and Trials
+5.  User Testing and Economic Validation in Compliance Contexts
 
-	•	Objective: Validate economic and operational performance through real-world user testing, focusing on both technical efficacy and economic impact.
-	•	Approach: Implement user testing phases aligned with each economic milestone, particularly in WP5’s qualitative assessment. Measure user-reported satisfaction, time savings, and perceived value in practical compliance scenarios.
-	•	Expected Outcome: Evidence-based insights into user satisfaction and economic feasibility, providing data to finalise the CBA and support a comprehensive feasibility report.
+• **Objective:** Validate economic and operational performance through real-world testing, with a focus on both efficiency and usability. 
+• **Approach:** User testing phases in WP5 will focus on practical feedback from compliance staff. Economic impacts, particularly on time savings and usability, will be a core focus during testing. 
+• **Outcome:** Evidence-based insights into user experience and economic feasibility, supporting the final evaluation of the RAG model’s performance.
 
-6. Continuous Risk Assessment and Adjustments
+6.  Ongoing Risk Assessment and Adaptive Strategy
 
-	•	Objective: Mitigate technical, operational, and economic risks associated with the RAG model’s implementation, particularly regarding data quality, model interpretability, and regulatory adaptation.
-	•	Approach: Establish a risk assessment framework to monitor progress in each WP, with specific attention to data reliability and model performance. Adjust technical development based on risk findings and update stakeholders on potential economic implications.
-	•	Expected Outcome: Reduced risk of operational or financial setbacks, ensuring the RAG model meets both technical and economic expectations for compliance.
+• **Objective:** Identify and mitigate technical, operational, and economic risks throughout the project, including data quality and regulatory alignment. 
+• **Approach:** Establish a risk assessment framework to monitor potential challenges in each WP, with regular reviews to assess data reliability and model performance. 
+• **Outcome:** Risk-informed project development, ensuring that the RAG model remains aligned with regulatory and operational standards.
 
-7. Benchmark Testing and Error Analysis Framework
+7.  Benchmark Testing and Error Analysis
 
-	•	Objective: Validate the RAG model’s performance and accuracy using benchmark tests and systematic error analysis.
-	•	Approach: Use financial QA benchmarks like FINANCEBENCH for standardised performance evaluation. Implement error analysis by categorising model failures, enabling targeted improvements for high-stakes compliance tasks.
-	•	Expected Outcome: Enhanced model reliability and accuracy, increasing the confidence of stakeholders in the RAG model’s practical and economic value.
+• **Objective:** Evaluate the RAG model’s accuracy and reliability through standardised benchmark tests and systematic error analysis. 
+• **Approach:** Use financial QA benchmarks to assess model performance. Implement error analysis protocols to categorise and address common failure points. 
+• **Outcome:** Enhanced model accuracy and reliability, supporting confidence in the RAG model’s potential to add value in compliance settings.
 
-## Summary of Implementation Strategy
 
-This implementation strategy provides a comprehensive approach for ensuring the RAG model’s technical performance aligns with economic feasibility. By incorporating economic analysis at each phase, fostering stakeholder collaboration, and rigorously testing the model’s capabilities, this strategy supports a well-rounded assessment of the RAG model’s impact. Ultimately, the strategy ensures that all insights — technical, economic, and user-based — contribute to a final evaluation that is both practically relevant and academically rigorous.
-
+This strategy combines technical and economic assessment methods, enabling a structured evaluation of the RAG model’s operational and cost-effectiveness within the compliance framework. By embedding these considerations throughout the project phases, the strategy aims to deliver a comprehensive feasibility report that is both practical and aligned with the needs of Funds Axis Ltd.
 
 # Potential Challenges and Limitations
 
-While this project holds significant potential for advancing AI-driven regulatory compliance, several challenges and limitations must be considered. These challenges relate to technical, economic, and organisational aspects of implementing a RAG model in a small-scale, resource-constrained financial setting.
+While the project aims to deliver a comprehensive feasibility assessment, several potential challenges and limitations may impact the implementation of the RAG model in regulatory compliance. Addressing these issues proactively will help mitigate potential risks and ensure that the findings remain practical and relevant.
 
-1. Data Quality and Availability
+• **Data quality and availability:** The RAG model’s effectiveness depends on the quality and completeness of the regulatory data used for training. Smaller firms may have limited access to comprehensive regulatory data across various jurisdictions, which could affect the model’s performance. To address this, the project will focus on priority compliance tasks and, where possible, supplement data with external regulatory resources.
 
-	•	Challenge: The effectiveness of RAG models depends heavily on access to high-quality, comprehensive regulatory data. Smaller firms, such as Funds Axis Ltd., may lack the breadth of data required for robust model training, particularly across diverse jurisdictions.
-	•	Impact: Limited data could restrict the model’s ability to generalise effectively to new or complex regulatory queries, affecting accuracy and reliability.
-	•	Mitigation: Focus initial development on high-priority, frequently encountered compliance tasks. Partner with regulatory data providers to supplement available information where possible.
+• **Model interpretability and user trust:** Compliance professionals may have concerns about the interpretability of AI-driven compliance recommendations, which could impact trust and adoption. Providing clear explanations of the RAG model’s outputs will be essential to ensuring user confidence. Integrating explainable AI (XAI) techniques and providing user-friendly explanations are planned to support transparency.
 
-2. Model Interpretability and User Trust
+• **Regulatory acceptance and auditability:** Ensuring that the RAG model meets regulatory requirements and can be audited is critical in compliance contexts. Regulatory bodies may require a clear audit trail for AI-driven decisions. This project will include logging and auditing features in the RAG model to record outputs and decision pathways, supporting transparency and alignment with regulatory standards.
 
-	•	Challenge: As RAG models become more complex, explaining their outputs and ensuring interpretability can be challenging. Compliance officers may be hesitant to trust AI-driven outputs without clear, transparent explanations.
-	•	Impact: Lack of interpretability could reduce user confidence, especially in a high-stakes compliance context, potentially limiting RAG adoption within the firm.
-	•	Mitigation: Integrate explainable AI (XAI) techniques to make RAG model outputs understandable and provide visual aids or simplified summaries to enhance user trust and usability.
+• **Economic feasibility for SMEs** While RAG models have the potential to improve efficiency, initial costs for implementation and ongoing maintenance could be a barrier for smaller firms. The project’s cost-benefit analysis will provide insights into expected cost savings and long-term economic viability, offering practical recommendations for phased or modular implementation if necessary.
 
-3. Regulatory Acceptance and Auditability
+• **Integration with existing systems:** Funds Axis Ltd. may already have established compliance workflows and tools. Integrating the RAG model with these existing systems may require additional technical adaptation. The project team will conduct an early compatibility assessment and develop a modular RAG framework to enable seamless or complementary integration with current systems.
 
-	•	Challenge: Regulatory bodies may be sceptical of AI-driven compliance tools, particularly if these tools cannot be readily audited. Compliance with regulations often requires systems that provide a clear audit trail.
-	•	Impact: Challenges in meeting regulatory audit standards could restrict the use of RAG models in compliance-sensitive applications or lead to higher scrutiny.
-	•	Mitigation: Develop a logging and audit feature within the RAG model, recording outputs and decision pathways to provide transparent documentation for regulators and stakeholders.
+• **Continuous learning and adaptation:** Regulatory environments are constantly evolving, requiring compliance tools to be regularly updated to maintain accuracy. The project team will explore options for modular updates to keep the RAG model current with regulatory changes, reducing the operational burden on compliance teams while ensuring adaptability.
 
-4. Economic Feasibility for Small Firms
+• **Limited pool of compliance staff for qualitative data collection:** Funds Axis Ltd. has a small compliance team, which may limit the sample size for qualitative insights. To address this, the project will conduct in-depth interviews and follow-up sessions with available participants to gather detailed feedback over multiple data collection points, helping to capture valuable user perspectives.
 
-	•	Challenge: Although this project aims to make RAG models economically viable, there may be costs associated with initial implementation, model training, and ongoing adaptation that are challenging for small firms to absorb.
-	•	Impact: High costs could hinder adoption, especially if cost savings are not realised in the short term or if additional resources are required for model maintenance.
-	•	Mitigation: Emphasise cost-benefit analysis (CBA) and time-motion studies in WP1 and WP2 to ensure economic feasibility is continuously assessed. Provide insights on phased implementation or scaling options that match smaller firms’ budgets.
-
-5. Integration with Existing Systems
-
-	•	Challenge: Funds Axis Ltd. may already have established compliance systems and workflows. Integrating the RAG model into these existing systems may pose technical and operational challenges.
-	•	Impact: Integration issues could limit the RAG model’s ability to enhance current workflows, potentially reducing the anticipated economic and operational benefits.
-	•	Mitigation: Conduct a compatibility assessment with existing systems early in the project to identify integration challenges. Develop a modular RAG framework that can operate independently or complementarily to current tools if full integration proves difficult.
-
-6. Continuous Learning and Adaptation Requirements
-
-	•	Challenge: The regulatory landscape evolves continuously, and keeping the RAG model updated with the latest regulatory requirements could demand significant resources. Ensuring the model remains accurate and relevant over time may be operationally demanding.
-	•	Impact: Without ongoing updates, the model’s usefulness may diminish, limiting its capacity to support compliance staff effectively and reducing its economic value.
-	•	Mitigation: Implement a modular approach to model training and knowledge base updating, allowing for targeted updates in specific regulatory areas as they evolve. Explore potential partnerships or third-party solutions for regulatory updates if needed.
-
-7. Limited Pool of Compliance Staff for Qualitative Data Collection
-
-	•	Challenge: With only a small number of compliance professionals available for feedback at Funds Axis Ltd., gathering extensive qualitative insights may be challenging, limiting the depth of user experience data.
-	•	Impact: A limited sample size could restrict the generalisability of user feedback, potentially impacting the reliability of qualitative assessments.
-	•	Mitigation: Expand interview questions to gather rich, detailed insights from the available participants. Consider conducting follow-up interviews or using multiple data collection points to obtain longitudinal insights.
-
-## Summary of Potential Challenges
-
-Each of these challenges represents a potential limitation to the project’s success. The strategy will include ongoing risk assessments to address these challenges proactively, adapting the approach as needed to mitigate impacts on the RAG model’s technical and economic feasibility. By acknowledging and planning for these obstacles, the project will be better positioned to deliver a feasible, impactful solution that balances technical ambition with real-world constraints.
-
+Each of these challenges represents a potential area for adjustment throughout the project. By anticipating these limitations, the project strategy includes ongoing risk assessments to ensure that both technical and economic feasibility remain central to development and final recommendations.
 
 # Ethical Implications of AI in Regulatory Compliance
 
-The use of AI, especially Retrieval-Augmented Generation (RAG) models, in regulatory compliance brings important ethical considerations that must be addressed to ensure responsible, fair, and transparent deployment. This section outlines key ethical issues relevant to this project and how they will be addressed.
+The deployment of AI models, especially in regulatory compliance, raises several ethical considerations. Ensuring that the RAG model is implemented responsibly will be essential for its acceptance and effectiveness. Key ethical issues and mitigation strategies are outlined below.
 
-1. Fairness and Bias
+• Fairness and Bias: AI models may unintentionally introduce or reinforce biases present in the training data, potentially leading to inconsistent compliance outcomes. To mitigate this, the project will carefully curate the dataset, prioritising diverse regulatory sources, and will use fairness metrics to monitor for potential bias in outputs. 
 
-	•	Ethical Issue: AI models may inadvertently reinforce or amplify biases present in training data or algorithmic design. In a regulatory compliance context, biased decisions can lead to inconsistent or unfair compliance practices, potentially disadvantaging certain groups or entities.
-	•	Mitigation: This project will carefully select and evaluate training data for RAG models, focusing on diverse regulatory texts to minimise inherent biases. Additionally, fairness metrics will be integrated into the model evaluation process to monitor for bias and ensure equal treatment across compliance tasks.
+• Accountability and Responsibility: Defining accountability is critical, particularly when an AI model is used to support high-stakes compliance decisions. The project will establish clear documentation to track AI-assisted decisions, ensuring that responsibility between human operators and the AI system is well-defined. This approach will support accountability and transparency. 
 
-2. Accountability and Responsibility
+• Privacy and Data Protection: Compliance tools often process sensitive and proprietary data, raising concerns around data privacy. The RAG model will incorporate privacy-by-design principles, including robust encryption and secure access protocols, to ensure that data protection standards, such as GDPR, are maintained throughout its use. 
 
-	•	Ethical Issue: Determining accountability when AI systems make errors in regulatory compliance decisions can be challenging. With automated decision-making, it is essential to clarify responsibility, particularly when compliance outcomes impact clients, firms, or regulatory bodies.
-	•	Mitigation: This project will implement accountability measures, including detailed logging of AI-driven decisions and the rationale behind them. A clear documentation framework will establish accountability between human operators and AI systems, providing a transparent record of how compliance decisions are made.
+• Transparency and Explainability: Ensuring that the AI model’s outputs are understandable is crucial for compliance officers to trust and effectively use the RAG system. To address this, the project will implement explainable AI (XAI) techniques, providing transparent explanations of how recommendations are generated. This will support informed decision-making by compliance staff. 
 
-3. Privacy and Data Protection
+• Human Oversight and Job Impact: AI tools can significantly enhance efficiency, but there may be concerns about automation impacting job roles in compliance. This project emphasises that the RAG model is intended as a support tool to assist, rather than replace, compliance professionals. Human oversight will remain central to the workflow, maintaining a balance between AI-driven efficiency and the expertise of compliance staff. 
 
-	•	Ethical Issue: Processing vast amounts of potentially sensitive regulatory data raises concerns about data privacy and protection, especially with respect to compliance-sensitive information. Ensuring that AI models handle data securely is critical to protecting proprietary or personal information.
-	•	Mitigation: Privacy-by-design principles will be integrated into the RAG model’s development. This includes robust data encryption, secure access controls, and compliance with data protection standards such as GDPR. Regular privacy audits will ensure that data handling and processing practices remain secure and compliant.
+• Regulatory Compliance of AI Systems: AI-driven compliance tools themselves must meet certain regulatory and ethical standards. To ensure that the RAG model is aligned with these requirements, the project will incorporate regular reviews of regulatory guidelines on AI use in financial compliance. Where guidelines are ambiguous, best practices will be followed to maintain high ethical standards.
 
-4. Transparency and Explainability
-
-	•	Ethical Issue: The “black box” nature of many AI models can be problematic in compliance contexts, where transparency is often legally or ethically required. Stakeholders, including regulators and compliance officers, need to understand how AI-driven decisions are made to trust and validate the model’s outputs.
-	•	Mitigation: To enhance transparency, explainable AI (XAI) techniques will be integrated into the RAG model, providing users with clear, interpretable insights into the model’s decision-making process. Visual explanations and summaries of RAG outputs will make complex AI decisions more accessible to compliance officers.
-
-5. Human Oversight and Job Displacement
-
-	•	Ethical Issue: While AI has the potential to increase efficiency, it also raises concerns about automation’s impact on human oversight and potential job displacement. Compliance officers may fear that AI-driven systems could reduce the demand for human roles in compliance, impacting job security.
-	•	Mitigation: The RAG model will be designed as an augmentation tool to assist, rather than replace, compliance officers. Human oversight will remain integral to all compliance decisions, and the model will operate as a supportive tool that enhances, rather than replaces, human expertise. This approach will be communicated clearly to alleviate concerns about job displacement.
-
-6. Regulatory Approval and Compliance
-
-	•	Ethical Issue: AI-driven compliance tools must adhere to regulatory standards themselves. The deployment of RAG models must be demonstrably fair, accurate, and in line with the ethical principles laid out by relevant regulatory bodies. Non-compliance could result in ethical concerns and regulatory scrutiny.
-	•	Mitigation: The project will engage with regulatory guidelines for AI use in finance and compliance, ensuring that the model adheres to ethical standards. In cases where ethical guidelines are not well-defined, the team will adopt a proactive approach, consulting with regulatory experts and referencing best practices.
-
-## Summary of Ethical Considerations
-
-By addressing these ethical implications, the project aims to develop a responsible AI model that aligns with high standards of fairness, accountability, privacy, transparency, and human-centred design. This ethical foundation is essential for gaining trust among compliance professionals, regulatory bodies, and stakeholders, ultimately supporting the model’s long-term viability and acceptance.
-
-
-Here’s a draft for the Future Work Ideas section. This section outlines potential areas for extending the research beyond the feasibility study, with a focus on improving RAG models for broader compliance applications and addressing any identified limitations.
+By proactively addressing these ethical considerations, the project aims to ensure that the RAG model aligns with principles of fairness, accountability, and privacy. These measures will help build trust among compliance officers and stakeholders, supporting responsible AI use in regulatory compliance.
 
 # Future Work Ideas
 
-Building on the insights and findings from this feasibility study, several areas for future research and development have emerged. These future directions aim to enhance the applicability, scalability, and robustness of RAG models in regulatory compliance, particularly as these tools continue to evolve within the financial sector.
+Building on the insights from this feasibility study, several directions for future research and development could further enhance the capabilities of RAG models in regulatory compliance. These ideas focus on extending the applicability, reliability, and adaptability of AI models within the compliance landscape.
 
-1. Development of Specialised Financial Language Models
+• Specialised Financial Language Models: Future research could explore the development of language models specifically trained on financial and regulatory texts. Such models would be better equipped to handle complex regulatory language and reasoning, potentially improving accuracy and interpretability for high-stakes compliance tasks. 
 
-	•	Objective: Create language models specifically tailored to handle complex financial regulations and tasks, particularly for nuanced financial terminology and reasoning.
-	•	Rationale: General-purpose language models (e.g., GPT-4, Llama) may not fully capture the intricacies of financial compliance. Specialised financial models, fine-tuned on domain-specific data, could improve accuracy and interpretability, reducing the risk of regulatory misunderstandings.
-	•	Future Work: Develop and evaluate new language models focused on financial datasets or regulatory documents, potentially collaborating with financial institutions for access to anonymised data for training.
+• Enhanced Retrieval Mechanisms: Improving the retrieval accuracy of RAG models would help ensure that the most relevant regulatory information is surfaced in response to compliance queries. Advanced retrieval techniques, such as semantic search or context-aware filtering, could further reduce inaccuracies and improve relevance. 
 
-2. Improvement of Retrieval Mechanisms for Relevance and Accuracy
+• Mitigating Hallucinations in High-Stakes Applications: Developing systematic methods to reduce hallucinations (incorrect or fabricated outputs) will be essential for ensuring that RAG models provide reliable guidance. Fact-checking algorithms and integration with verified knowledge bases could be effective in improving output accuracy. 
 
-	•	Objective: Enhance RAG models’ retrieval capabilities to ensure that only the most relevant, high-quality regulatory information is used in generating responses.
-	•	Rationale: Financial regulations are often complex, and ensuring that the most pertinent information is retrieved is crucial for accurate compliance guidance. Enhanced retrieval mechanisms could help reduce model “hallucinations” (incorrect or fabricated responses) and improve overall reliability.
-	•	Future Work: Experiment with advanced retrieval techniques, such as context-aware retrieval or semantic search, to improve the precision and relevance of regulatory information retrieval within RAG models.
+• Integration of Structured Financial Data: Regulatory compliance often requires handling structured data, such as financial statements. Future work could focus on integrating structured and unstructured data within RAG models, enhancing their ability to perform tasks that involve numerical reasoning and cross-referencing. 
 
-3. Methods to Mitigate Hallucinations in High-Stakes Applications
+• Longitudinal Studies on Economic Impact: Conducting long-term studies to assess the ongoing economic impact of RAG models would provide valuable insights into cost efficiencies and scalability. By tracking performance over time, future research could quantify sustained benefits, such as reduced error rates and ongoing compliance efficiencies. 
 
-	•	Objective: Develop systematic approaches to reduce hallucinations, ensuring that RAG models consistently provide accurate and fact-based guidance.
-	•	Rationale: In regulatory compliance, erroneous outputs can lead to significant financial and legal risks. Addressing hallucinations is critical to making RAG models safe for high-stakes financial decision-making.
-	•	Future Work: Explore techniques such as fact-checking algorithms, integration with trusted knowledge bases, and post-processing filters to validate RAG outputs before they are delivered to compliance officers.
+• Ethical and Regulatory Guidelines for AI in Compliance: As AI adoption in compliance grows, developing ethical frameworks and best practices specific to this context will be essential. Future efforts could focus on creating industry standards for fairness, transparency, and accountability in AI-driven compliance.
 
-4. Integration of Structured Financial Data for Enhanced Compliance
+These areas for future work could help to refine and expand the applicability of RAG models, creating more reliable and flexible compliance tools. These research directions would provide a foundation for ongoing advancements in AI applications for regulatory compliance, supporting a more efficient and responsive compliance landscape.
 
-	•	Objective: Combine unstructured text with structured financial data (e.g., tables, company filings) to enhance RAG models’ ability to handle multi-format compliance information.
-	•	Rationale: Regulatory documents and compliance data are not always in text format; financial statements and structured data sources are common. Integrating these sources could improve RAG models’ ability to perform multi-step reasoning, numerical calculations, and cross-referencing.
-	•	Future Work: Research methods for incorporating structured data alongside unstructured text, potentially using multimodal AI techniques, to enable RAG models to interpret and respond to complex financial queries.
+# Summary and Aims for Progress
 
-5. Longitudinal Studies on Economic Impact of RAG in Compliance
+This feasibility study represents an initial step towards exploring the potential of RAG models to support and enhance regulatory compliance processes. By focusing on practical evaluation through structured work packages, the project aims to deliver actionable insights into the technical, operational, and economic feasibility of adopting AI-driven compliance tools within the context of a small FinTech firm.
 
-	•	Objective: Conduct longitudinal studies to assess the evolving economic impact of RAG models on compliance costs, risk management, and operational efficiencies.
-	•	Rationale: This feasibility study provides a short-term view of RAG’s impact. However, long-term studies would help quantify sustained economic benefits and identify areas for continuous improvement as regulations evolve and compliance needs increase.
-	•	Future Work: Engage with partner institutions to track RAG model performance over multiple years, focusing on metrics such as cost savings, error reduction, risk mitigation, and adaptability to new regulations.
+The project’s structured approach, which integrates technical development with economic analysis, is designed to assess both the immediate benefits and broader implications of RAG model implementation. Through ongoing collaboration with Funds Axis Ltd., the project seeks to align its efforts with real-world compliance needs, ensuring that the evaluation reflects both the challenges and opportunities associated with this technology.
 
-6. Exploration of Ethical and Regulatory Guidelines for AI in Compliance
+As the study progresses, particular attention will be paid to:
 
-	•	Objective: Develop frameworks for ethical AI deployment in regulatory compliance, focusing on fairness, transparency, privacy, and auditability.
-	•	Rationale: With AI’s growing role in compliance, establishing ethical guidelines is essential to ensure that AI-driven compliance solutions are aligned with regulatory standards and public expectations. These guidelines could help address stakeholder concerns around trust and accountability.
-	•	Future Work: Collaborate with regulatory bodies and industry leaders to establish best practices for AI use in compliance, including standards for model transparency, explainability, and privacy.
+1.  Capturing baseline data to establish benchmarks for time and cost efficiencies.
+2.  Evaluating the adaptability and scalability of RAG models in responding to evolving regulatory requirements.
+3.  Gathering qualitative insights from compliance professionals to understand usability and practical relevance.
+4.  Addressing potential challenges, including data quality, model interpretability, and integration with existing systems, to ensure a realistic assessment.
 
-## Summary of Future Research Directions
-
-These proposed areas of future research aim to strengthen the capabilities of RAG models, making them more reliable, adaptable, and aligned with financial sector demands. By addressing the technical, economic, and ethical challenges identified in this feasibility study, future work can build on the foundations laid here, offering more comprehensive AI solutions for regulatory compliance in finance. Such advancements would not only benefit smaller firms like Funds Axis Ltd. but could also set the stage for industry-wide improvements in AI-driven compliance practices.
-
-Here’s a draft for the Concluding Remarks section. This section summarises the key findings of the project, reflects on the potential of RAG models for regulatory compliance, and underscores the importance of the hybrid economic analysis approach.
-
-# Concluding Remarks
-
-This feasibility study explores the application of Retrieval-Augmented Generation (RAG) models in regulatory compliance, focusing on the specific needs and constraints of smaller financial firms. By integrating technical innovation with a rigorous economic analysis framework, the project aims to deliver actionable insights into the feasibility, economic impact, and practical challenges of implementing RAG models within compliance functions.
-
-## Anticipated Insights
-
-	1.	Efficiency and Cost-Effectiveness: The study’s initial findings suggest that RAG models hold significant promise for improving compliance efficiency, reducing time spent on complex regulatory tasks, and lowering associated costs. The Cost-Benefit Analysis (CBA) and Process Mapping reveal that even with limited resources, smaller firms can achieve operational savings by adopting AI-driven compliance solutions.
-	2.	Risk Mitigation and Compliance Accuracy: RAG models provide substantial value in reducing compliance risk by automating rule extraction and interpretation, helping firms better align with evolving regulatory standards. However, the study underscores the importance of human oversight and interpretability to ensure the reliability and trustworthiness of AI-driven compliance outputs.
-	3.	Adaptability and Long-Term Scalability: Simulation-based modelling shows that RAG models have potential scalability across various regulatory environments, particularly if designed with modular knowledge bases that adapt to regulatory changes. However, adapting to new regulatory updates remains a challenge and requires an ongoing commitment to maintenance and data quality.
-	4.	Hybrid Economic Analysis Approach: The hybrid economic approach, combining quantitative and qualitative methods, has proven essential for capturing the multi-dimensional impact of RAG models. This framework allows for a balanced assessment of RAG’s immediate economic benefits and its broader implications, from cost savings to improved compliance accuracy and reduced information asymmetry.
-
-## Future Outlook
-
-The study highlights areas for further research and improvement, including the development of specialised financial language models, enhanced retrieval mechanisms, and ethical guidelines for AI in compliance. These future directions will help to refine RAG models, making them more robust, reliable, and aligned with the financial industry’s unique needs.
-
-## Implications for Practice and Policy
-
-The findings from this study offer practical insights for financial firms, particularly smaller institutions, seeking to enhance regulatory compliance through AI. By establishing a comprehensive evaluation framework that considers both operational and economic factors, this study provides a roadmap for smaller firms to adopt and implement RAG technology effectively. Additionally, the results underscore the importance of ethical considerations, especially around transparency, accountability, and privacy, in building stakeholder trust in AI-driven compliance solutions.
-
-## Final Reflections
-
-This study has laid the groundwork for understanding the economic and operational feasibility of RAG models in regulatory compliance. While challenges remain, particularly around data availability, interpretability, and regulatory alignment, the potential benefits are significant. With careful attention to economic analysis, technical design, and ethical practices, RAG models could become invaluable tools for compliance teams, helping firms of all sizes navigate the complexities of regulatory requirements more effectively and efficiently.
-
-By combining insights from economics, computer science, and compliance practice, this project represents a step forward in the responsible application of AI in finance. As RAG models and AI technologies evolve, ongoing research, collaboration, and ethical consideration will be crucial to unlocking their full potential and ensuring they serve the best interests of both the financial sector and society as a whole.
+The findings from this study will provide a foundation for informed decision-making, offering Funds Axis Ltd. and other stakeholders a clearer understanding of how AI might enhance regulatory compliance in the financial sector. While the study does not aim to provide definitive conclusions, it aspires to create a robust framework for evaluating the potential of RAG models in this critical area of compliance.
