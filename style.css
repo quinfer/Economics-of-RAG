@@ -1,54 +1,5 @@
-/* Table styling */
-table {
-    width: 100%;
-    margin-bottom: 2em;
-}
-
-/* Column width specifications */
-th:nth-child(1) {
-    width: 15%;
-}
-th:nth-child(2) {
-    width: 20%;
-}
-th:nth-child(3) {
-    width: 32%;
-}
-th:nth-child(4) {
-    width: 33%;
-}
-
-/* Optional: Additional table styling for better readability */
-th {
-    background-color: #f5f5f5;
-    padding: 8px;
-}
-
-td {
-    padding: 8px;
-    vertical-align: top;
-}
-
-/* Optional: Alternating row colors */
-tr:nth-child(even) {
-    background-color: #f9f9f9;
-}
-
-/* Set the base font size */
-
-body {
-    font-size: 12px;  /* Adjust this value as needed */
-}
-
-/* Optional: Adjust specific element sizes */
-h1 {
-    font-size: 20px;
-}
-
-h2 {
-    font-size: 18px;
-}
-
-.subtitle {
-    font-size: 16px;
+.reveal .slide-logo {
+  height: 300px !important;
+  width: auto !important;
+  max-width: unset !important;
 }
