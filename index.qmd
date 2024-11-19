@@ -2,9 +2,9 @@
 subtitle: "Bridging AI and Economics"
 title: "Evaluating the Feasibility of RAG Models for Regulatory Compliance"
 author: 
-    - Jesús Martínez del Rincón
-    - Abhishek Pramanick
-    - Barry Quinn
+    - Prof. Jesús Martínez del Rincón
+    - Mr. Abhishek Pramanick
+    - Dr. Barry Quinn
 event: "UKFin+ Annual Showcase"
 format: 
     revealjs:
@@ -17,15 +17,20 @@ format:
             data-background-image: FAIR_logo.png
             data-background-size: contain
             data-background-opacity: "0.3"
+        scrollable: true
 embed-resources: true
 ---
 
 ## Introduction
 
 **Collaborative Project Overview**  
+
 - Led by Queen's University Belfast researchers in the [Finance and AI Research Lab](https://q-rap.connect.qub.ac.uk/FAIR/)
+
 - Industry Partner Funds Axis Ltd, a leading RegTech firm in Northern Ireland 
+
 - Supported by UKRI through the UKFin+ programme.  
+
 - Aim: Evaluate the feasibility of Retrieval-Augmented Generation (RAG) models for enhancing regulatory compliance within FinTech.
 
 ::: {.notes}
@@ -35,7 +40,6 @@ embed-resources: true
 
 ## Objectives
 
-### Project Objectives
 1. Evaluate Retrieval-Augmented Generation (RAG) models for:
    - Regulatory reporting,
    - Risk assessments,
@@ -50,19 +54,25 @@ embed-resources: true
 :::
 
 
-## Towards a Unified Definition of AI
+## Towards a Unified Definition of AI {.smalller}
 
 ### AI as Adaptive Capital
 
 **Artificial Intelligence (AI)**:  
->A novel form of **adaptive capital**, capable of dynamic learning, autonomous decision-making, and task flexibility, designed to achieve specific objectives efficiently.
 
-Key properties:  
+:::{.aside}
+A novel form of **adaptive capital**, capable of dynamic learning, autonomous decision-making, and task flexibility, designed to achieve specific objectives efficiently.
+:::
+
+:::{.callout}
+
+#### Key properties:  
 - **Dynamic Efficiency**: Self-improving through machine learning.  
 - **Repurposability**: Adaptable to diverse tasks.  
 - **Scalability**: Low marginal costs, enabling rapid expansion.  
 - **Labour Dynamics**: Both complement and substitute for human skills.  
 - **Value Alignment**: Ensures AI objectives align with societal and economic goals.
+:::
 
 ::: {.notes}
 - Define "adaptive capital" as a foundational concept for AI’s economic role.
@@ -72,7 +82,7 @@ Key properties:
 
 ## Economic Properties of AI
 
-### Key Implications of Adaptive Capital
+#### Key Implications of Adaptive Capital
 
 1. **Dynamic Efficiency**: Continuous self-improvement enhances productivity.
 2. **Repurposability**: Application to diverse regulatory compliance tasks.
