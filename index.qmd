@@ -1,6 +1,5 @@
 ---
-subtitle: "Bridging AI and Economics"
-title: "Evaluating the Feasibility of RAG Models for Regulatory Compliance"
+title: "Evaluating the Feasibility of RAG Models for Regulatory Compliance in Investment Management"
 author: 
     - Prof. Jesús Martínez del Rincón
     - Mr. Abhishek Pramanick
@@ -8,135 +7,178 @@ author:
 event: "UKFin+ Annual Showcase"
 format: 
     revealjs:
-        logo: logo.jpeg
+        logo: imgs/logo.jpeg
         footer: "UKFin+ Annual Showcase"
-        slide-number: h/v
+        slide-number: c/t
         css: style.css
         theme: simple
         title-slide-attributes:
-            data-background-image: FAIR_logo.png
-            data-background-size: contain
-            data-background-opacity: "0.3"
+            data-background-image: "imgs/FAIR_logo.png"
+            data-background-size: cover 
+            data-background-opacity: "0.2"
         scrollable: true
 embed-resources: true
 ---
 
-## Introduction
+## Project Summary
 
-**Collaborative Project Overview**  
+- This project, led by Dr. Barry Quinn and Dr. Jesús Martínez del Rincón from Queen’s University Belfast, aims to create an AI framework to simplify and enhance regulatory compliance in global investment management. 
 
-- Led by Queen's University Belfast researchers in the [Finance and AI Research Lab](https://q-rap.connect.qub.ac.uk/FAIR/)
+- First major project for [Finance and AI Research Lab](https://q-rap.connect.qub.ac.uk/FAIR/) established in 2023.
 
-- Industry Partner Funds Axis Ltd, a leading RegTech firm in Northern Ireland 
+- The research focuses on **Retrieval-Augmented Generation (RAG)** and ontology learning algorithms to transform complex regulatory texts into clear, consistent rules reflecting current international standards.
 
-- Supported by UKRI through the UKFin+ programme.  
+## Key Objectives 
 
-- Aim: Evaluate the feasibility of Retrieval-Augmented Generation (RAG) models for enhancing regulatory compliance within FinTech.
+- Explore the advantages of AI in regulatory compliance for the investment management sector.
+- Evaluate AI’s impact on accuracy, efficiency, and cost-effectiveness.
+- Focus on key areas like regulatory reporting, risk assessments, and compliance monitoring.
+- Address challenges in using Large Language Models (LLMs), including hallucinations, reasoning, and auditability.
+
+::: {.callout}
+- **Funding**: UKRI through the UKFin+ program for a 12-month period; FEC £99,871 (Nov 2024 - Oct 2025).  
+
+- **Industrial Partner**: [Funds Axis Ltd](https://funds-axis.com/) provides support and industry insights.
+:::
+
+## Timeline 
+
+![Timeline of Project](imgs/SAFE%20framework-2024-11-19-210806.png)
+
+## Work Packages
+
+::: {.panel-tabset}
+
+## WP1: 
+
+### Use Cases & Data Collection (Months 1-2)
+
+- Define precise regulatory and compliance scenarios.
+- Simulate investment firms using historical regulatory texts.
+- Compile datasets for training and evaluation.
+
+## WP2: 
+
+### Q/A Extraction (Months 2-3)
+
+- Develop a multi-hop question-answering system.
+- Fine-tune models like **T5, Llama3.1, FinBERT**.
+- Test for truthfulness and reasoning accuracy.
+
+## WP3: 
+
+### Rule Extraction with Ontology (Months 4-7)
+
+- Automate rule extraction using OWL ontology.
+- Integrate extracted rules into a dynamic knowledge base.
+- Ensure adaptability to evolving regulations.
+
+## WP4: 
+
+### Identifying Rule Set Inconsistencies (Months 8-10)
+
+- Use the MIMUS tool to detect inconsistencies in rule sets.
+- Resolve conflicts using **Minimal Unsatisfiable Sets (MUSes)**.
+- Prioritise rules based on relevance, recency, and source.
+
+## WP5: 
+
+### Risk Assessment (Months 11-12)
+
+- Develop a compliance risk scoring system.
+- Leverage AI and data from company filings for risk prediction.
+- Produce a final compliance risk report.
+
+:::
+
 
 ::: {.notes}
 - Briefly introduce the project team and the event context.
 - Mention this study is part of a broader UKFin+ initiative to explore cutting-edge financial technologies.
 :::
 
-## Objectives
-
-1. Evaluate Retrieval-Augmented Generation (RAG) models for:
-   - Regulatory reporting,
-   - Risk assessments,
-   - Monitoring processes.
-2. Quantify economic efficiency through cost-benefit analysis and process mapping.
-3. Address challenges in adaptability, interpretability, and usability.
-4. Provide actionable insights for AI-driven compliance systems.
-
-::: {.notes}
-- Highlight that the focus is on AI applications within compliance workflows.
-- Emphasise the combination of economic analysis with technical evaluation to create practical recommendations.
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
 :::
 
+## Theoretical Framework in Economics {.smaller}
 
-## Towards a Unified Definition of AI {.smalller}
+**Artificial Intelligence (AI) as Adaptive Capital**
 
-### AI as Adaptive Capital
-
-**Artificial Intelligence (AI)**:  
-
-:::{.aside}
-A novel form of **adaptive capital**, capable of dynamic learning, autonomous decision-making, and task flexibility, designed to achieve specific objectives efficiently.
-:::
+A novel form of productive capital with unique properties that drive economic impact:
 
 :::{.callout}
 
-#### Key properties:  
-- **Dynamic Efficiency**: Self-improving through machine learning.  
-- **Repurposability**: Adaptable to diverse tasks.  
-- **Scalability**: Low marginal costs, enabling rapid expansion.  
-- **Labour Dynamics**: Both complement and substitute for human skills.  
-- **Value Alignment**: Ensures AI objectives align with societal and economic goals.
+#### Key Economic Properties:
+1. **Dynamic Efficiency**: Self-improvement through machine learning drives productivity.
+2. **Repurposability**: Flexible application to diverse compliance tasks.
+3. **Scalability**: Low marginal costs enable rapid scaling.
+4. **Labour Impact**: Augments high-skill roles and automates repetitive processes.
+5. **Value Alignment**: Aligns AI objectives with societal and economic goals.
+
 :::
+
+### Implications for Regulatory Compliance:
+- Reduced regulatory reporting times through **dynamic efficiency**.
+- Scalable solutions for cost-effective compliance across firm sizes.
+- Enhanced information access, reducing asymmetry in decision-making.
 
 ::: {.notes}
-- Define "adaptive capital" as a foundational concept for AI’s economic role.
-- Provide an example, e.g., AI in regulatory compliance, to show task flexibility and efficiency.
-- Explain why value alignment is critical in both technical and economic contexts.
+- Introduce AI as **adaptive capital**, highlighting its economic implications.
+- Use examples like RAG models in compliance to connect AI properties to real-world applications.
+- Explain how value alignment impacts regulatory compliance and labour dynamics.
 :::
 
-## Economic Properties of AI
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
 
-#### Key Implications of Adaptive Capital
+## Economics of AI {.smaller}
 
-1. **Dynamic Efficiency**: Continuous self-improvement enhances productivity.
-2. **Repurposability**: Application to diverse regulatory compliance tasks.
-3. **Scalability**: Processes scale at low additional costs.
-4. **Labour Impact**: Augments high-skill tasks; automates repetitive processes.
-5. **Value Alignment**: Critical for sustainable economic growth.
+**Economic Impacts of AI in Compliance**
 
-```{mermaid}
-graph TD
-    A[AI as Adaptive Capital]
-    A --> B[Dynamic Efficiency]
-    A --> C[Repurposability]
-    A --> D[Scalability]
-    A --> E[Labour Market Effects]
-    B --> F[Productivity Growth]
-    C --> F
-    D --> G[Reduced Costs]
-    E --> H[Redistribution of Skills Demand]
-```
+![Economics of AI](imgs/RAGeconomics.png)
+
+1. **Efficiency Gains**: Self-improving models reduce regulatory processing times.
+2. **Cost Savings**: Scalability lowers compliance costs for SMEs.
+3. **Labour Market Impact**: Augments high-skill roles, automates routine tasks.
+4. **Risk Mitigation**: Flexible adaptation to regulatory updates reduces compliance risks.
+5. **Information Accessibility**: Bridges knowledge gaps, enhancing decision quality.
+
+---
+
+### Why This Matters:
+- AI transforms regulatory compliance into a scalable, efficient process.
+- Balances cost-effectiveness with ethical considerations like transparency and fairness.
 
 ::: {.notes}
-•	Use the visual to show how the properties of AI feed into economic impacts.
-•	Discuss specific examples, e.g., how dynamic efficiency reduces regulatory reporting times.
-•	Emphasise the dual role of AI as both complement and substitute in labour markets.
+- Use the graphic to visually connect AI’s properties to its economic outcomes.
+- Highlight specific impacts, such as improved scalability for SMEs or reduced compliance risks.
+- Transition smoothly into methodology by linking economic insights to practical evaluation.
 :::
 
-## Implications for Policy and Economics
-
-### Aligning AI with Economic Goals
-
-1.	Value Alignment: Align AI’s objectives with human welfare.
-2.	Policy Challenges: Address labour displacement through upskilling and incentives.
-3.	Scalability & Risk: Leverage AI’s scalability while mitigating potential inequities.
-4.	Structural Changes: Long-term shifts in growth models and comparative advantages.
-
-::: {.notes}
-•	Highlight that policy must evolve alongside AI’s economic impact.
-•	Use examples like ESG compliance AI to show the need for alignment between AI goals and regulatory requirements.
-•	Stress the importance of interdisciplinary approaches to AI policy-making.
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
 :::
+
 
 ## Methodology Overview
 
-Hybrid Economic Analysis Framework
-
+::: {.columns .column-screen-inset}
+::: {.column width="40%"}
+#### Hybrid Economic Analysis Framework
 1.	Process Mapping: Establish baseline workflows and resource allocation.
 2.	Cost-Benefit Analysis: Quantify direct and indirect cost savings.
 3.	Simulation Modelling: Test adaptability of RAG models to evolving regulations.
 4.	Stakeholder Feedback: Gather practical insights on usability and challenges.
+:::
 
+:::{.column width="60%"}
 
-## Economic Methodology Overview
+![Hybrid Economic Analysis Framework](imgs/mermaid-diagram-2024-11-19-113920.png)
 
-![Hybrid Economic Analysis Framework](mermaid-diagram-2024-11-19-113920.png)
+:::
+:::
 
 ::: {.notes}
 •	Use the flowchart to explain how input data feeds into various analysis components.
@@ -144,47 +186,38 @@ Hybrid Economic Analysis Framework
 •	Emphasise how this framework ensures both technical and economic feasibility are addressed.
 :::
 
-## Preliminary Insights
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
 
-1.	RAG models are projected to reduce task time by 40%, saving ~20 staff hours weekly.
-2.	Early tests highlight improved interpretability for ESG reporting and risk assessments.
-3.	Stakeholders report an 8/10 usability score for compliance-related tasks.
 
-## Work Packages {.scrollable}
 
-### WP1: Use Case Definition & Data Collection
-
-•	Focus: Map 3 priority compliance workflows.
-•	Deliverable: Baseline time/resource metrics.
-•	Tool: Lucidchart for workflow visualisation.
-
-### WP2: Question-Answering (Q/A) Model
-
-•	Focus: Fine-tune a regulatory-specific Q/A model.
-•	Deliverable: First prototype tested for ESG compliance tasks.
-
-### WP3: Rule Extraction & Knowledge Base
-
-•	Focus: Automate rule extraction using OWL ontology.
-•	Deliverable: Dynamic knowledge base with 500+ structured rules.
 
 ## Challenges and Limitations
 
 ### Quantified Challenges:
 
-•	Data Quality: Parsing accuracy starts at 70%, requiring preprocessing.
-•	Adaptability: Simulations show initial 3-week lag for updates; goal is 5 days.
+- Data Quality: Parsing accuracy starts at 70%, requiring preprocessing.
+- Adaptability: Simulations show initial 3-week lag for updates; goal is 5 days.
 
 ### Addressing Concerns:
 
-•	Use explainable AI (XAI) for output transparency.
-•	Focus on modular integration with existing systems.
+- Use explainable AI (XAI) for output transparency.
+- Focus on modular integration with existing systems.
+
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
 
 ## Ethical Considerations
 
-•	Fairness: Minimise bias via curated datasets.
-•	Accountability: Establish clear documentation for decision trails.
-•	Human Oversight: Support compliance professionals without replacing roles.
+- Fairness: Minimise bias via curated datasets.
+- Accountability: Establish clear documentation for decision trails.
+- Human Oversight: Support compliance professionals without replacing roles.
+
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
 
 ## Future Work
 
@@ -192,11 +225,20 @@ Hybrid Economic Analysis Framework
 2.	Enhance retrieval accuracy using semantic search.
 3.	Explore long-term cost and efficiency gains via real-world trials.
 
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
 
 ## Thank You!
 
 Contact Information
+
 Dr Barry Quinn
+
 Queen’s University Belfast
+
 📧 barry.quinn@qub.ac.uk
 
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
