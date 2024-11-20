@@ -24,12 +24,12 @@ embed-resources: true
 
 - This project, led by Dr. Barry Quinn and Dr. Jesús Martínez del Rincón from Queen’s University Belfast, aims to create an AI framework to simplify and enhance regulatory compliance in global investment management. 
 
-- First major project for [Finance and AI Research Lab](https://q-rap.connect.qub.ac.uk/FAIR/) established in 2023.
+- First major project for [Finance and AI Research lab (FAIR)](https://q-rap.connect.qub.ac.uk/FAIR/) established in 2023.
 
 - The research focuses on **Retrieval-Augmented Generation (RAG)** and ontology learning algorithms to transform complex regulatory texts into clear, consistent rules reflecting current international standards.
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Key Objectives {.smaller}
@@ -46,7 +46,7 @@ Finance and AI Research Lab
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Work Package 1: Use Case Definition, Data Collection & Process Mapping {.smaller}
@@ -59,6 +59,9 @@ Finance and AI Research Lab
 - **Document Analysis**:
     - Use RAG to analyse multiple versions of regulatory texts for overlaps, inconsistencies, and conflicting rules.
 
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research lab (FAIR)
+:::
 ---
 
 ## Proposed Use Cases {.smaller}
@@ -70,6 +73,9 @@ Finance and AI Research Lab
     - Address complex regulations from authorities like the FCA.
     - Extract logic from dense legal language for future use cases.
 
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research lab (FAIR)
+:::
 ---
 
 ## Client Engagement Opportunities {.smaller}
@@ -84,7 +90,7 @@ Finance and AI Research Lab
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 ---
@@ -104,16 +110,15 @@ Finance and AI Research Lab
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
-
 
 ## Timeline 
 
 ![Timeline of Project](imgs/SAFE%20framework-2024-11-19-210806.png)
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Work Packages
@@ -169,7 +174,7 @@ Finance and AI Research Lab
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Theoretical Framework in Economics {.smaller}
@@ -201,7 +206,7 @@ A novel form of productive capital with unique properties that drive economic im
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Economics of AI {.smaller}
@@ -229,7 +234,7 @@ Finance and AI Research Lab
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 
@@ -258,7 +263,7 @@ Finance and AI Research Lab
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 
@@ -269,7 +274,7 @@ Finance and AI Research Lab
 - Human Oversight: Support compliance professionals without replacing roles.
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Future Work
@@ -279,7 +284,7 @@ Finance and AI Research Lab
 3.	Explore long-term cost and efficiency gains via real-world trials.
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Thank You!
@@ -290,8 +295,8 @@ Dr Barry Quinn
 
 Queen’s University Belfast
 
-📧 barry.quinn@qub.ac.uk
+📧 b.quinn@qub.ac.uk
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
+Finance and AI Research lab (FAIR)
 :::
