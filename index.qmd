@@ -12,13 +12,13 @@ format:
         slide-number: c/t
         css: style.css
         theme: simple
-        title-slide-attributes:
-            data-background-image: "imgs/FAIR_logo.png"
-            data-background-size: cover 
-            data-background-opacity: "0.1"
         scrollable: true
 embed-resources: true
 ---
+ <!-- title-slide-attributes:
+            data-background-image: "imgs/FAIR_logo.png"
+            data-background-size: cover 
+            data-background-opacity: "0.1" -->
 
 ## Project Summary
 
