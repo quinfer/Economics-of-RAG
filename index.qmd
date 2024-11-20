@@ -157,7 +157,7 @@ Finance and AI Research lab (FAIR)
 
 ### Identifying Rule Set Inconsistencies (Months 8-10)
 
-- Use the MIMUS tool to detect inconsistencies in rule sets.
+- Use the MIMUS tool [(McAveary et al. 2012)](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/10410743/Tools_for_Finding_Inconsistencies_in_Real_world_Logic_based_Systems.pdf) to detect inconsistencies in rule sets.
 - Resolve conflicts using **Minimal Unsatisfiable Sets (MUSes)**.
 - Prioritise rules based on relevance, recency, and source.
 
