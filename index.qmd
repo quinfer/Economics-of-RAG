@@ -54,7 +54,7 @@ Finance and AI Research lab (FAIR)
 
 #### Regulatory Focus
 - **Codification of Investment Regulations**:
-    - Focus on EFAMA EFC Categories.
+    - Focus on [EFAMA European Fund Classification Categories](https://www.efama.org/SitePages/EFCF.aspx).
     - Rules for portfolio composition (e.g., asset class restrictions on equities, bonds, and country/industry limits).
     - Compare regulatory limits with existing portfolios to ensure compliance.
 - **Document Analysis**:
