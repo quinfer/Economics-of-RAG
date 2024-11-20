@@ -262,7 +262,7 @@ Finance and AI Research lab (FAIR)
 ## Methodology Overview
 
 ::: {.columns .column-screen-inset}
-::: {.column width="40%"}
+::: {.column}
 #### Hybrid Economic Analysis Framework
 1.	Process Mapping: Establish baseline workflows and resource allocation.
 2.	Cost-Benefit Analysis: Quantify direct and indirect cost savings.
@@ -270,9 +270,9 @@ Finance and AI Research lab (FAIR)
 4.	Stakeholder Feedback: Gather practical insights on usability and challenges.
 :::
 
-:::{.column width="60%"}
+:::{.column}
 
-![Hybrid Economic Analysis Framework](imgs/mermaid-diagram-2024-11-19-113920.png)
+![Hybrid Economic Analysis Framework](imgs/mermaid-diagram-2024-11-19-113920.png){width="80%"}
 
 :::
 :::
