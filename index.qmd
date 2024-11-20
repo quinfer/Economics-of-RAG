@@ -7,6 +7,8 @@ author:
 event: "UKFin+ Annual Showcase"
 format: 
     revealjs:
+        height: 900 
+        width: 1600
         logo: imgs/logo.jpeg
         footer: "UKFin+ Annual Showcase"
         slide-number: c/t
@@ -15,12 +17,8 @@ format:
         scrollable: true
 embed-resources: true
 ---
- <!-- title-slide-attributes:
-            data-background-image: "imgs/FAIR_logo.png"
-            data-background-size: cover 
-            data-background-opacity: "0.1" -->
 
-## Project Summary
+## Project Summary 
 
 - This project, led by Dr. Barry Quinn and Dr. Jesús Martínez del Rincón from Queen’s University Belfast, aims to create an AI framework to simplify and enhance regulatory compliance in global investment management. 
 
@@ -28,11 +26,14 @@ embed-resources: true
 
 - The research focuses on **Retrieval-Augmented Generation (RAG)** and ontology learning algorithms to transform complex regulatory texts into clear, consistent rules reflecting current international standards.
 
-::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab (FAIR)
+- **Study Period 1/11/2024 - 31/10/2024**
+
+::: {.footer}
+![](imgs/ukfin%2B.png){width="8%"}
 :::
 
-## Key Objectives {.smaller}
+
+## Key Objectives
 
 - Explore the advantages of AI in regulatory compliance for the investment management sector.
 - Evaluate AI’s impact on accuracy, efficiency, and cost-effectiveness.
@@ -49,7 +50,7 @@ Finance and AI Research lab (FAIR)
 Finance and AI Research lab (FAIR)
 :::
 
-## Work Package 1: Use Case Definition, Data Collection & Process Mapping {.smaller}
+## Work Package 1: Use Case Definition, Data Collection & Process Mapping
 
 #### Regulatory Focus
 - **Codification of Investment Regulations**:
@@ -59,12 +60,13 @@ Finance and AI Research lab (FAIR)
 - **Document Analysis**:
     - Use RAG to analyse multiple versions of regulatory texts for overlaps, inconsistencies, and conflicting rules.
 
-::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab (FAIR)
+::: {.footer}
+![](imgs/ukfin%2B.png){width="8%"}
 :::
+
 ---
 
-## Proposed Use Cases {.smaller}
+## Proposed Use Cases
 1. **Portfolio Compliance**:
     - Leverage Funds Axis's classified spreadsheet for model training.
     - Train models to validate portfolio adherence to regulations.
@@ -72,13 +74,14 @@ Finance and AI Research lab (FAIR)
 2. **Advanced Legal Analysis**:
     - Address complex regulations from authorities like the FCA.
     - Extract logic from dense legal language for future use cases.
+    - For example Investment and Borrowing powers for UCITS from the FCA <https://www.handbook.fca.org.uk/handbook/COLL/5/2.pdf> 
 
 ::: {.footer style="color: #E6001C;"}
 Finance and AI Research lab (FAIR)
 :::
 ---
 
-## Client Engagement Opportunities {.smaller}
+## Client Engagement Opportunities
 - **QA System Development**:
     - Address client portfolio queries using grounded references.
     - Enhance credibility of responses through regulatory cross-referencing.
@@ -89,13 +92,14 @@ Finance and AI Research lab (FAIR)
 - Mention how RAG systems will eventually handle advanced use cases.
 :::
 
-::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab (FAIR)
+::: {.footer}
+![](imgs/ukfin%2B.png){width="8%"}
 :::
+
 
 ---
 
-## Next Steps {.smaller}
+## Next Steps
 
 1. **Define First Use Case**:
     - Review regulatory documents shared by Funds Axis.
@@ -173,17 +177,18 @@ Finance and AI Research lab (FAIR)
 - Mention this study is part of a broader UKFin+ initiative to explore cutting-edge financial technologies.
 :::
 
-::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab (FAIR)
+::: {.footer}
+![](imgs/ukfin%2B.png){width="8%"}
 :::
 
-## Theoretical Framework in Economics {.smaller}
+
+## Theoretical Framework in Economics
 
 **Artificial Intelligence (AI) as Adaptive Capital**
 
 A novel form of productive capital with unique properties that drive economic impact:
 
-:::{.callout}
+:::{.callout-important}
 
 #### Key Economic Properties:
 1. **Dynamic Efficiency**: Self-improvement through machine learning drives productivity.
@@ -205,15 +210,23 @@ A novel form of productive capital with unique properties that drive economic im
 - Explain how value alignment impacts regulatory compliance and labour dynamics.
 :::
 
-::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab (FAIR)
+::: {.footer}
+![](imgs/ukfin%2B.png){width="8%"}
 :::
 
-## Economics of AI {.smaller}
+<!-- ::: {.footer style="color: #E6001C;"}
+Finance and AI Research lab (FAIR)
+::: -->
 
-**Economic Impacts of AI in Compliance**
+## Economic Impacts of AI in Compliance
+
+::: {.columns}
+::: {.column}
 
 ![Economics of AI](imgs/RAGeconomics.png)
+
+:::
+::: {.column}
 
 1. **Efficiency Gains**: Self-improving models reduce regulatory processing times.
 2. **Cost Savings**: Scalability lowers compliance costs for SMEs.
@@ -221,9 +234,17 @@ Finance and AI Research lab (FAIR)
 4. **Risk Mitigation**: Flexible adaptation to regulatory updates reduces compliance risks.
 5. **Information Accessibility**: Bridges knowledge gaps, enhancing decision quality.
 
+:::
+:::
+
+::: {.footer}
+![](imgs/ukfin%2B.png){width="8%"}
+:::
+
 ---
 
-### Why This Matters:
+## Why This Matters:
+
 - AI transforms regulatory compliance into a scalable, efficient process.
 - Balances cost-effectiveness with ethical considerations like transparency and fairness.
 
@@ -262,8 +283,8 @@ Finance and AI Research lab (FAIR)
 •	Emphasise how this framework ensures both technical and economic feasibility are addressed.
 :::
 
-::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab (FAIR)
+::: {.footer}
+![](imgs/ukfin%2B.png){width="8%"}
 :::
 
 
@@ -283,9 +304,10 @@ Finance and AI Research lab (FAIR)
 2.	Enhance retrieval accuracy using semantic search.
 3.	Explore long-term cost and efficiency gains via real-world trials.
 
-::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab (FAIR)
+::: {.footer}
+![](imgs/ukfin%2B.png){width="8%"}
 :::
+
 
 ## Thank You!
 
