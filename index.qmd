@@ -15,7 +15,7 @@ format:
         title-slide-attributes:
             data-background-image: "imgs/FAIR_logo.png"
             data-background-size: cover 
-            data-background-opacity: "0.2"
+            data-background-opacity: "0.1"
         scrollable: true
 embed-resources: true
 ---
@@ -28,7 +28,11 @@ embed-resources: true
 
 - The research focuses on **Retrieval-Augmented Generation (RAG)** and ontology learning algorithms to transform complex regulatory texts into clear, consistent rules reflecting current international standards.
 
-## Key Objectives 
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
+
+## Key Objectives {.smaller}
 
 - Explore the advantages of AI in regulatory compliance for the investment management sector.
 - Evaluate AI’s impact on accuracy, efficiency, and cost-effectiveness.
@@ -41,9 +45,76 @@ embed-resources: true
 - **Industrial Partner**: [Funds Axis Ltd](https://funds-axis.com/) provides support and industry insights.
 :::
 
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
+
+## Work Package 1: Use Case Definition, Data Collection & Process Mapping {.smaller}
+
+#### Regulatory Focus
+- **Codification of Investment Regulations**:
+    - Focus on EFAMA EFC Categories.
+    - Rules for portfolio composition (e.g., asset class restrictions on equities, bonds, and country/industry limits).
+    - Compare regulatory limits with existing portfolios to ensure compliance.
+- **Document Analysis**:
+    - Use RAG to analyse multiple versions of regulatory texts for overlaps, inconsistencies, and conflicting rules.
+
+---
+
+## Proposed Use Cases {.smaller}
+1. **Portfolio Compliance**:
+    - Leverage Funds Axis's classified spreadsheet for model training.
+    - Train models to validate portfolio adherence to regulations.
+    - Identify conflicting rules across versions.
+2. **Advanced Legal Analysis**:
+    - Address complex regulations from authorities like the FCA.
+    - Extract logic from dense legal language for future use cases.
+
+---
+
+## Client Engagement Opportunities {.smaller}
+- **QA System Development**:
+    - Address client portfolio queries using grounded references.
+    - Enhance credibility of responses through regulatory cross-referencing.
+
+:::{.notes}
+- This slide provides an overview of Work Package 1's regulatory focus and main deliverables.
+- Highlight the emphasis on portfolio compliance as the first step.
+- Mention how RAG systems will eventually handle advanced use cases.
+:::
+
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
+
+---
+
+## Next Steps {.smaller}
+
+1. **Define First Use Case**:
+    - Review regulatory documents shared by Funds Axis.
+    - Develop the portfolio compliance framework for initial testing.
+2. **Plan In-Person Meeting**:
+    - Visit Funds Axis to review workflows and processes.
+    - Map detailed use cases for inclusion in Work Package 1.
+
+:::{.notes}
+- Transition to upcoming actions for clarity.
+- Emphasise collaboration with Funds Axis and the importance of mapping workflows.
+:::
+
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
+
+
 ## Timeline 
 
 ![Timeline of Project](imgs/SAFE%20framework-2024-11-19-210806.png)
+
+::: {.footer style="color: #E6001C;"}
+Finance and AI Research Lab
+:::
 
 ## Work Packages
 
@@ -190,24 +261,6 @@ Finance and AI Research Lab
 Finance and AI Research Lab
 :::
 
-
-
-
-## Challenges and Limitations
-
-### Quantified Challenges:
-
-- Data Quality: Parsing accuracy starts at 70%, requiring preprocessing.
-- Adaptability: Simulations show initial 3-week lag for updates; goal is 5 days.
-
-### Addressing Concerns:
-
-- Use explainable AI (XAI) for output transparency.
-- Focus on modular integration with existing systems.
-
-::: {.footer style="color: #E6001C;"}
-Finance and AI Research Lab
-:::
 
 ## Ethical Considerations
 
