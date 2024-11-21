@@ -1,24 +1,69 @@
 ---
-title: "Evaluating the Feasibility of RAG Models for Regulatory Compliance in Investment Management"
-author: 
-    - Prof. Jesús Martínez del Rincón
-    - Mr. Abhishek Pramanick
-    - Dr. Barry Quinn
-event: "UKFin+ Annual Showcase"
+title: "Safety and Assurance in Finance"
 format: 
     revealjs:
         height: 900 
         width: 1600
         logo: imgs/logo.jpeg
-        footer: "UKFin+ Annual Showcase"
+        footer: "2nd Symposium of Finance and AI Research lab"
         slide-number: c/t
         css: style.css
         theme: simple
+        title-slide-attributes: 
+            data-background-image: imgs/FAIR_logo.png
+            data-background-size: contain
+            data-background-opacity: "0.2"
         scrollable: true
 embed-resources: true
 ---
 
+## Running {.scrollable}
+
+- Welcome and opening remarks
+09:00 AM - 09:10 AM
+Barry Quinn
+Co-Director of Finance and AI Research lab (Senior Lecturer of Finance, Technology and Data Science)
+
+- Keynote: AI in Citi
+09:10 AM - 09:30 AM
+Carla McGlynn
+Managing Director (Head of Markets Data, Risks and Controls Technology/Tech Site Lead) Citi Belfast
+
+- Panel Discussion : Emerging Risks and Challenges in the Financial System
+09:30 AM - 10:00 AM
+Fearghal Kearney
+Co-Director of Finance and AI Research lab (Reader of Finance)
+Kathryn Harkin
+Head of AI, FinTrU
+Carla McGlynn
+Paul Miller
+Director of the BRCD Momentum1.0
+
+- Leverage AI to understand regulatory compliance in investment management (Ukfin+ feasiblity) study)
+10:00 AM - 10:20 AM
+Barry Quinn
+
+- Cyber risk, ChatGPT and Firm Value
+10:25 AM - 10:50 AM
+Fearghal Kearney
+
+- Closing Remarks
+10:50 AM - 11:00 AM
+
+- Network and Sandwiches
+11:00 AM - 11:30 AM
+
+
+## Keynote: AI at Citi
+
+### Carla McGlynn
+
+### Global Head of Markets Business Controls & Belfast Site Lead, Citi
+
+
 ## Project Summary 
+
+### Evaluating the Feasibility of AI for Regulatory Compliance in Investment Management
 
 - This project, led by Dr. Barry Quinn and Dr. Jesús Martínez del Rincón from Queen’s University Belfast, aims to create an AI framework to simplify and enhance regulatory compliance in global investment management. 
 
@@ -77,7 +122,7 @@ Finance and AI Research lab
     - For example Investment and Borrowing powers for UCITS from the FCA <https://www.handbook.fca.org.uk/handbook/COLL/5/2.pdf> 
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab
+Finance and AI Research lab (FAIR)
 :::
 ---
 
@@ -114,7 +159,7 @@ Finance and AI Research lab
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Timeline 
@@ -122,7 +167,7 @@ Finance and AI Research lab
 ![Timeline of Project](imgs/SAFE%20framework-2024-11-19-210806.png)
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Work Packages
@@ -251,7 +296,7 @@ A novel form of productive capital with unique properties that drive economic im
 :::
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab
+Finance and AI Research lab (FAIR)
 :::
 
 
@@ -291,7 +336,7 @@ Finance and AI Research lab
 - Human Oversight: Support compliance professionals without replacing roles.
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab
+Finance and AI Research lab (FAIR)
 :::
 
 ## Future Work
@@ -316,5 +361,5 @@ Queen’s University Belfast
 📧 b.quinn@qub.ac.uk
 
 ::: {.footer style="color: #E6001C;"}
-Finance and AI Research lab
+Finance and AI Research lab (FAIR)
 :::
